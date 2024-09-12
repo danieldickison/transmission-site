@@ -1,0 +1,13 @@
+<ul class="gallery">
+{% for img in site.static_files %}
+
+  {% unless img.path contains include.asset_path %} {% continue %} {% endunless %}
+  {% if img.name contains "-thumb." %} {% continue %} {% endif %}
+
+  <li>
+    <a href="{{ img.path | relative_url }}">
+      <img src="{{ img.path | replace: img.extname, "-thumb.jpeg" | relative_url }}">
+    </a>
+  </li>
+{% endfor %}
+</ul>

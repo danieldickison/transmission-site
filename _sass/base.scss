@@ -1,0 +1,173 @@
+@import "normalize";
+@import "colors";
+
+@mixin blur-background {
+  background: #ffffff7f;
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+}
+
+html {
+  background-color: var(--color-html-bg);
+}
+
+body {
+  min-height: 100vh;
+  min-height: 100lvh;
+
+  font-family: Georgia, serif;
+  font-size: 22px;
+  text-underline-offset: 2.5px;
+  line-height: 1.5;
+  color: var(--color-text-fg);
+
+  display: grid;
+  grid-template:
+    minmax(5em, 40vh)
+    max-content
+    minmax(max-content, 1fr)
+    max-content
+    / 1fr minmax(300px, 45em) 1fr;
+}
+
+h1 {
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  font-size: 2.5em;
+}
+
+h2,
+h3 {
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+a:any-link {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+
+a:link {
+  color: var(--color-link);
+}
+a:visited {
+  color: var(--color-visited);
+}
+
+header {
+  background-color: var(--color-header-bg);
+  background-image: url(/assets/images/before-after.jpg);
+  background-size: cover;
+  background-position: center;
+
+  grid-row: 1;
+  grid-column: 1 / -1;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: var(--color-header-fg);
+
+  a:any-link {
+    color: inherit;
+    text-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+nav {
+  grid-row: 2;
+  grid-column: 1 / -1;
+  position: sticky;
+  top: 0;
+  padding: 1ex;
+  display: grid;
+  grid-template-columns: subgrid;
+
+  @include blur-background;
+  font-family: Montserrat, sans-serif;
+  font-weight: 300;
+
+  > menu {
+    grid-column: 2;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    column-gap: 2em;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    > li {
+      white-space: nowrap;
+    }
+  }
+}
+
+main {
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-row: 3;
+  grid-column: 1 / -1;
+  padding: 1em 0;
+
+  > * {
+    grid-column: 2;
+  }
+
+  > .gallery {
+    grid-column: 1 / -1;
+    padding: 0 1em;
+  }
+
+  // move anchors up a little so the heading below it doesn't end up hidden by the nav bar after scrolling.'
+  a:not(:link) {
+    position: relative;
+    top: -1em;
+    display: block;
+    width: 1px;
+    height: 1px;
+    background: transparent;
+  }
+
+  iframe {
+    width: 100%;
+    height: 500px;
+  }
+}
+
+footer {
+  @include blur-background;
+  grid-row: 4;
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: subgrid;
+
+  font-family: Montserrat, sans-serif;
+  font-weight: 300;
+
+  padding: 1ex;
+
+  > div {
+    grid-column: 2;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    gap: 1ex;
+  }
+}
+
+.signature {
+  font-family: cursive;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1ex;
+}
