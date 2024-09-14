@@ -2,9 +2,9 @@
 @import "colors";
 
 @mixin blur-background {
-  background: #ffffff7f;
-  -webkit-backdrop-filter: blur(4px);
-  backdrop-filter: blur(4px);
+  background: color-mix(in srgb, var(--color-html-bg), transparent 25%);
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
 }
 
 html {
@@ -56,9 +56,16 @@ a:visited {
   color: var(--color-visited);
 }
 
+@mixin underline-on-hover {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 header {
   background-color: var(--color-header-bg);
-  background-image: url(/assets/images/before-after.jpg);
+  background-image: linear-gradient(180deg, var(--color-header-bg), var(--color-html-bg));
   background-size: cover;
   background-position: center;
 
@@ -74,14 +81,11 @@ header {
   a:any-link {
     color: inherit;
     text-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
-    text-decoration: none;
-    &:hover {
-      text-decoration: underline;
-    }
+    @include underline-on-hover;
   }
 }
 
-nav {
+#site-toc {
   grid-row: 2;
   grid-column: 1 / -1;
   position: sticky;
@@ -107,7 +111,24 @@ nav {
     > li {
       white-space: nowrap;
     }
+
+    a:any-link {
+      @include underline-on-hover;
+    }
+
+    .current {
+      font-weight: bold;
+      color: inherit;
+    }
   }
+}
+
+#page-toc {
+  grid-row: 3;
+  grid-column: 1;
+  z-index: 1;
+  position: sticky;
+  top: 5em;
 }
 
 main {

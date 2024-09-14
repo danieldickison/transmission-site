@@ -39,16 +39,36 @@
     <header>
       <h1><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h1>
     </header>
-    {% if page.toc %}
-    <nav>
+    <nav id="site-toc">
       <menu>
-        {% for section in page.toc %}
-        <li><a href="{{ section.url | relative_url }}">{{ section.title }}</a></li>
+        {% for section in site.data.toc %}
+        <li>
+          <a href="{{ section.url | relative_url }}"
+            data-permalink="{{page.permalink}}"
+              {% if page.permalink == section.url %}class="current"{% endif %}
+          >
+            {{ section.title }}
+          </a>
+        </li>
         {% endfor %}
       </menu>
     </nav>
+    {% if page.toc %}
+      <nav id="page-toc">
+        <menu>
+          {% for section in page.toc %}
+          <li>
+            <a href="{{ section.url | relative_url }}">
+              {{ section.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </menu>
+      </nav>
     {% endif %}
-    <main>{{ content }}</main>
+    <main>
+      {{ content }}
+    </main>
     <footer>
       <div>
         <img

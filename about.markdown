@@ -1,4 +1,5 @@
 ---
+permalink: /about
 ---
 
 ## About Transmission
