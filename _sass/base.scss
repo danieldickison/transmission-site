@@ -126,9 +126,31 @@ header {
 #page-toc {
   grid-row: 3;
   grid-column: 1;
+  align-self: end;
   z-index: 1;
   position: sticky;
-  top: 5em;
+  bottom: 1em;
+  margin-left: 1em;
+
+  @include blur-background;
+  font-family: Montserrat, sans-serif;
+  font-size: 1rem;
+
+  a:any-link {
+    @include underline-on-hover;
+  }
+
+  > h3 {
+    text-align: left;;
+    font-size: inherit;
+    font-style: italic;
+    font-weight: 200;
+  }
+
+  > menu {
+    list-style: none;
+    padding: 0;
+  }
 }
 
 main {

@@ -1,16 +1,8 @@
 ---
-toc:
-  - url: about.html
-    title: About
-  - url: gallery.html
-    title: Gallery
-  - url: "#news-anchor"
-    title: News
 ---
 
 {::options parse_block_html="true" /}
 
-<section>
 <a id="about-anchor"></a>
 
 Quilts have been given as gifts to mark life transition across time
@@ -26,9 +18,7 @@ and care that hold them.
 
 The process can be conducted with teens or adults. We plan to
 make 16 quilts over the next 18 months.
-</section>
 
-<section>
 <a id="news-anchor"></a>
 
 ## News and Updates
@@ -38,4 +28,3 @@ make 16 quilts over the next 18 months.
   <li><a href="{{ post.url | relative_url }}">{{ post.date | date_to_string }} – {{ post.title }}</a></li>
 {% endfor %}
 </ul>
-</section>
