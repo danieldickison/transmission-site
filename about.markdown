@@ -6,12 +6,10 @@ toc:
   - title: Lineage
     url: "#lineage"
   - title: Other Projects
-    url: "#others"
+    url: "#other"
 ---
 
-<a id="history" />
-
-## History
+## History {#history}
 
 ### Chapter 1
 
@@ -48,9 +46,7 @@ project are crafted to mirror the variety of ways that trans people
 come to know themselves and locate themselves in the broader
 social weave. A culminating exhibit is one version of this witnessing.
 
-<a id="lineage" />
-
-## Project Lineage
+## Project Lineage {#lineage}
 
 This project exists in lineage with other queer and trans quilting projects throughout history.
 
@@ -62,8 +58,6 @@ This project also exists in lineage with other trans projects that share its nam
 - **Transmissions**: Chapbook by Nino Claveria published by Clones Go Home Press
 - **Tranzmission Prison Project**: mutual aid project providing books to incarcerated trans and queer siblings
 
-<a id="others" />
-
-## Other Projects to Support
+## Other Projects to Support {#other}
 
 TBD …

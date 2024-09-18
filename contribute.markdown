@@ -9,20 +9,14 @@ toc:
     title: Contribute Art
 ---
 
-<a id="fundraising" />
-
-## Fundraising
+## Fundraising {#fundraising}
 
 TBD …
 
-<a id="nomination" />
-
-## Nomination
+## Nomination {#nomination}
 
 TBD …
 
-<a id="artist" />
-
-## Becomne a Contributing Artist
+## Becomne a Contributing Artist {#artist}
 
 TBD …

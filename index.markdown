@@ -1,10 +1,6 @@
 ---
 ---
 
-{::options parse_block_html="true" /}
-
-<a id="about-anchor"></a>
-
 Quilts have been given as gifts to mark life transition across time
 and cultures. They help us see ourselves on longer time scales,
 which is something that many trans people can’t access easily.
@@ -18,8 +14,6 @@ and care that hold them.
 
 The process can be conducted with teens or adults. We plan to
 make 16 quilts over the next 18 months.
-
-<a id="news-anchor"></a>
 
 ## News and Updates
 
