@@ -3,10 +3,10 @@ permalink: /about
 toc:
   - title: History
     url: "#history"
-  - title: Lineage
-    url: "#lineage"
-  - title: Other Projects
-    url: "#other"
+  - title: Family
+    url: "#family"
+  - title: FAQ
+    url: "#faq"
 ---
 
 The Transmissions Quilt Project started with the simple impulse to make affirming gift objects for trans friends and lovers. It is now blossoming with the hopes of sharing these objects with broader community.
@@ -50,18 +50,71 @@ project are crafted to mirror the variety of ways that trans people
 come to know themselves and locate themselves in the broader
 social weave. A culminating exhibit is one version of this witnessing.
 
-## Project Lineage {#lineage}
+## Family {#family}
 
-This project exists in lineage with other queer and trans quilting projects throughout history.
+This project exists in an impossibly complex web of
+trans and queer textile projects that extends both
+backwards and sideways through time.
 
-- **Names Quilt**: the AIDS memorial quilt project housed in the Bay (ongoing)
-- **Euphoria Quilt Project**: a trans and queer group quilt project all about gender-expansive joy (ongoing and national)
+We also find siblingship with other projects outside
+of the textile world.
 
-This project also exists in lineage with other trans projects that share its name.
+Below are short, living lists of some of these
+projects. They’re quite incomplete. Please contact
+[transmissionsquilts@gmail.com](mailto:transmissionsquilts@gmail.com) if you have other
+projects that feel like they belong here.
 
-- **Transmissions**: Chapbook by Nino Claveria published by Clones Go Home Press
-- **Tranzmission Prison Project**: mutual aid project providing books to incarcerated trans and queer siblings
+### Project Lineage
 
-## Other Projects to Support {#other}
+- **Names Quilt**: The AIDS memorial quilt project
+housed in the Bay (ongoing)
+- **Euphoria Quilt Project**: Trans and queer group
+quilt project all about gender-expansive joy
+(ongoing and national)
 
-TBD …
+### Project Siblings
+
+- **Transmissions**: Chapbook by Nino Claveria
+published by Clones Go Home Press
+- **Tranzmission Prison Project**: Mutual aid project
+providing books to incarcerated trans and queer
+siblings
+- **Many Hands Make a Quilt**: Zine written by Jess
+Bailey celebrating the many histories of radical
+quilting
+
+## Frequently Asked Questions {#faq}
+
+### Why quilts and audio?
+
+Quilts and audio both answer the question “what will last?” This question
+has always been relevant and yet feels particularly present these days.
+
+What will last? The physical, the durable, the object from my grandma. If
+the future has people, may those people stay warm.
+
+What will last? The ambient, the fleeting, the short-wave audio file saved
+on this cassette. If the future has music, may we contribute to its
+soundscape.
+
+### What is a quilting bee?
+
+A quilting bee is a traditional gathering space where often women and
+gender-exploded people could gather and make work together. They
+share stitches but perhaps more importantly they share food, gossip and
+the commitment to keeping each other safe. They are the places where
+people who are not given places make themselves a place.
+How is this a textile project when many of the collaborating artists are
+working in other mediums?
+
+I make quilts because they can hold anything. This project is a celebration
+and a test of that. Let’s see how jazz music, tattoos and a ceramic mug can
+smash together to make a quilt.
+
+### Does my friend deserve a quilt?
+
+yes :)
+
+### How many years do I have to be quilting to be able to get involved in this project?
+
+absolutely zilch get in here girl.

@@ -1,12 +1,5 @@
 ---
 permalink: /contribute
-toc:
-  - url: "#fundraising"
-    title: Fundraising
-  - url: "#nomination"
-    title: Nomination
-  - url: "#artist"
-    title: Contribute Art
 ---
 
 We are currently closed for nominations as we have already
@@ -14,7 +7,7 @@ selected the next 18 quilt recipients.
 
 This project has become itself due to the random reachings out
 of people who are excited to collaborate. Contact
-transmissionsquilts@gmail.com if you’d like to be involved in
+[transmissionsquilts@gmail.com](mailto:transmissionsquilts@gmail.com) if you’d like to be involved in
 any way.
 
 Please especially contact us if:
@@ -36,5 +29,5 @@ able to accept tax-deductible donations including corporate
 matches.
 
 We also take direct donations through venmo/zelle/paypal/etc.
-Please contact [transmissionsquilts@gmail.com] if you have ideas
+Please contact [transmissionsquilts@gmail.com](mailto:transmissionsquilts@gmail.com) if you have ideas
 about how to financially support this project.
