@@ -15,6 +15,8 @@ This new chapter is just a more elaborate version of the original project. The i
 
 ## History {#history}
 
+<div class="col-left" markdown="1">
+
 ### Chapter 1
 
 This project came to me three years ago when a lover shared the blanket they had been given to celebrate their birth. With their dead name emblazoned across one corner in purple, they shared the grief
@@ -22,13 +24,9 @@ that came with relating to an object that didn’t feel like it was actually mad
 
 This spurred me to make them a quilt (my first quilt!) in the hopes of welcoming them into their current self.
 
-![Photo of first quilt]({{"/assets/images/first-quilt.jpeg" | relative_url}})
-
 From there, I went on to make a series of these quilts for trans friends.
 Not baby blankets, per se, but arrival objects. The piece that sees and
 welcomes them. I made six more.
-
-{% include gallery.html asset_path="chapter-1" %}
 
 ### Chapter 2
 
@@ -49,6 +47,14 @@ went into making them will be exhibited in some way. The steps of this
 project are crafted to mirror the variety of ways that trans people
 come to know themselves and locate themselves in the broader
 social weave. A culminating exhibit is one version of this witnessing.
+
+</div>
+
+<div class="col-right" markdown="1">
+
+{% include gallery.html asset_path="chapter-1" %}
+
+</div>
 
 ## Family {#family}
 
