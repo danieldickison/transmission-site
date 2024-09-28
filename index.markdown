@@ -1,19 +1,13 @@
 ---
 ---
 
-Quilts have been given as gifts to mark life transition across time
-and cultures. They help us see ourselves on longer time scales,
-which is something that many trans people can’t access easily.
-Transmissions is a project that makes quilts with and for trans
-people.
+![Line drawing of a person draped in a quilt]({{ "assets/images/illustration-landing.png" | relative_url }})
 
-This project explores the act of gift giving. It commissions trans
-artists to make art that ends up in a quilt for their friend, the quilt
-recipient. They end up with a quilt that reminds them of the love
-and care that hold them.
+Transmissions is a project that makes quilts for trans people.
 
-The process can be conducted with teens or adults. We plan to
-make 16 quilts over the next 18 months.
+Quilts have been given as gifts to mark life transition across time and cultures. They help us see ourselves on longer time scales, which is something that many trans people can’t access easily.
+
+May these quilts keep us living.
 
 ## News and Updates
 

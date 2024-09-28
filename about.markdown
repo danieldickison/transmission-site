@@ -9,6 +9,10 @@ toc:
     url: "#other"
 ---
 
+The Transmissions Quilt Project started with the simple impulse to make affirming gift objects for trans friends and lovers. It is now blossoming with the hopes of sharing these objects with broader community.
+
+This new chapter is just a more elaborate version of the original project. The impulses are the same: welcome trans people to themselves shower them with gifts and offer the reminder that the web of life holds them fiercely.
+
 ## History {#history}
 
 ### Chapter 1
