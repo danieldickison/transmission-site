@@ -103,40 +103,6 @@ header {
     }
 }
 
-footer {
-  /* background-color: var(--color-header-bg); */
-  background-image: url($baseurl + "/assets/images/illustration-who.png");
-  background-size: contain;
-  background-position: center;
-
-  grid-column: 1 / -1;
-
-  color: var(--color-header-fg);
-
-  a:any-link {
-    color: inherit;
-    text-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
-    @include underline-on-hover;
-  }
-}
-
-footer {
-  grid-row: 4;
-
-  font-weight: 500;
-  font-style: italic;
-
-  padding: 1ex;
-
-  > div {
-    grid-column: 1 / -1;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: flex-end;
-    gap: 1ex;
-  }
-}
-
 #site-toc {
   grid-row: 2;
   grid-column: 1;
