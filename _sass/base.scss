@@ -114,10 +114,6 @@ header {
   font-weight: 300;
 
   > menu {
-    display: flex;
-    flex-flow: column nowrap;
-    justify-content: space-evenly;
-    column-gap: 2em;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -127,12 +123,12 @@ header {
     }
 
     a:any-link {
-      @include underline-on-hover;
+      color: inherit;
+      /* @include underline-on-hover; */
     }
 
     .current {
       font-weight: bold;
-      color: inherit;
     }
   }
 }
