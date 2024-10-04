@@ -55,7 +55,9 @@ project possible.
 
 * Kala Art Institute
 * Richmond Art Center
-* Organizational Funders:
+
+### Organizational Funders
+
 * East Bay Heritage Quilters Guild
 * Berkeley Civic Arts Grant
 

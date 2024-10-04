@@ -1,0 +1,29 @@
+#landing {
+  position: relative;
+  display: flex;
+  justify-content: center;
+
+  > p {
+    white-space: pre;
+    position: absolute;
+    margin: 0;
+  }
+
+  #landing-p1 {
+    top: -46px;
+    right: calc(50% + 65px);
+    font-size: 95%;
+  }
+
+  #landing-p2 {
+    top: 23px;
+    left: calc(50% + 85px);
+    font-size: 75%;
+  }
+
+  #landing-p3 {
+    bottom: -52px;
+    left: calc(50% + -3px);
+    font-size: 85%;
+  }
+}
