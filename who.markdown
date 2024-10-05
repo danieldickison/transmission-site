@@ -2,54 +2,56 @@
 permalink: /who
 ---
 
-## Who are we? {#who-are-we}
+## Who are we?
 
-Below is a list of many of the artists making this project happen. This list
-could not possibly be comprehensive.
+Each of these quilts is made collaboratively by a team of 5-8 trans and queer artists. This includes interviewers, audio editors, quilters and more. The project vision is also held by a team of trans and queer community based artists. We’re also supported by a broad array of informal advisors, sweeties, therapists, funders, grandparents and teachers who have laid the path that this project walks down. Thank you to each of them for the ways they have created this work.
 
-This project’s center is located on Ohlone Land in the East Bay, California.
-We also have pop-up versions taking place in Maine, Western
-Massachusetts and Wisconsin.
+This project takes place primarily on Ohlone land in the East Bay, California. We also have pop-up versions taking place in Maine, Western Massachusetts and Wisconsin.
 
-### Lead Artist
+### Directors
 
-* Cordy Joan
+* [Cordy J.](http://corduroyjoan.com)
+* [Nino C.](https://www.instagram.com/princejellobeb/?hl=en)
 
 ### Producers
 
-* Cat Lauigan
-* Nino Claveria
-* Cam McCuskey
-* Audio Editors:
-* Saber Sutphin
+* [Cam M.](https://www.instagram.com/cam_mender_in_leaf/?hl=en)
+* [Cat L.](https://coneshapetop.com/)
 
 ### Quilters
 
-* Travis Clough (Maine)
-* Dan Toomre (Maine)
-* Joey Dehais (Western Mass)
+* [Cordy J.](http://corduroyjoan.com) (Oakland)
+* [Travis C.](https://www.travisclough.com/) (Maine)
+* [Dan T.](https://www.dantoomre.com/) (Maine)
+* [Joey D.](https://www.instagram.com/fish_of_salvation/?hl=en) (Massachusetts)
 
-### Advisors
+### Audio Editors
 
-* Holly Roberson
-* Melissa Wyman
-* Audrey Schield
-* Summar Abdallah
-* Alastair Boone
+* Rhae D.
+* Maris T.
+* [Iru E.](https://iruekpunobi.com/)
+* [Nino C.](https://www.instagram.com/princejellobeb/?hl=en)
+* [Jacqui F.](https://stabbyunicorn.media/)
 
-### Embroiderer
+### Project Advisors
 
-* Sab
-
-Thank you to our collaborating organizations and funders for making this
-project possible.
+* [Audrey S.](http://therapywithaudrey.com)
+* [Summar A.](https://summarabdallah.com/)
+* [Melissa W.](https://melissawymantherapy.com/)
+* Alastair B.
+* Holly R.
 
 ### Collaborating Organizations
 
-* Kala Art Institute
-* Richmond Art Center
+* [Richmond Art Center](http://richmondartcenter.org)
+* [Berkeley Public Library](https://www.berkeleypubliclibrary.org/)
+* [Kala Art Institute](http://kala.org)
 
-### Organizational Funders
+### Current Funders
 
-* East Bay Heritage Quilters Guild
-* Berkeley Civic Arts Grant
+* [East Bay Heritage Quilters Guild](http://ebhq.org)
+* [Berkeley Civic Arts Grant](https://berkeleyca.gov/community-recreation/civic-arts/civic-arts-grants)
+
+### Web Design
+
+* [Daniel Dickison](https://danieldickison.com/)
