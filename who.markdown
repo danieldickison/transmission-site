@@ -53,23 +53,3 @@ project possible.
 
 * East Bay Heritage Quilters Guild
 * Berkeley Civic Arts Grant
-
-## Artist Roster {#artist-roster}
-
-On this page you’ll find a roster of trans artists that
-are down to share their work for phase 2. In the
-event a quilt recipient does not have three trans
-artists from their life they’d like to select,
-someone(s) from this page will sub in to help out.
-
-If you are a trans artist and interested in being part
-of this list, please message
-[{{ site.email }}](mailto:{{ site.email }}) with your name,
-medium(s) and a bit about you. These commissions
-come with a small honorarium.
-
-### Cam McCuskey
-
-### Ro Oppenheimer
-
-### Kerbi Urbanowski (?)

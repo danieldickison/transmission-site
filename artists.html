@@ -3,6 +3,23 @@ permalink: /artists
 layout: default
 ---
 
+<h2>Artist Roster</h2>
+
+<p>
+On this page you’ll find a roster of trans artists that
+are down to share their work for <a href="{{ "/process" | relative_url }}">phase 2</a>. In the
+event a quilt recipient does not have three trans
+artists from their life they’d like to select,
+someone(s) from this page will sub in to help out.
+</p>
+<p>
+If you are a trans artist and interested in being part
+of this list, please message
+[{{ site.email }}](mailto:{{ site.email }}) with your name,
+medium(s) and a bit about you. These commissions
+come with a small honorarium.
+</p>
+
 {% for artist in site.data.artists %}
   <section>
     <img src="{{ artist.image | relative_url }}" alt="Sample art from {{ artist.name }}">
