@@ -1,0 +1,50 @@
+@import 'text';
+
+menu.toc {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  > li {
+    white-space: nowrap;
+
+    // animate submenu expansion
+    display: grid;
+    grid-template-rows: max-content 0fr;
+    transition: grid-template-rows 250ms ease-out;
+
+    /* &:hover, */
+    &:has(input:checked) {
+      grid-template-rows: max-content 1fr;
+      label {
+        font-style: italic;
+      }
+    }
+
+    label {
+      cursor: pointer;
+      @include underline-on-hover;
+    }
+
+    input {
+      display: none;
+    }
+
+    menu.submenu {
+      margin-left: 1em;
+      padding: 0;
+      list-style-type: none;
+      overflow-y: hidden;
+      overflow-x: visible;
+    }
+  }
+
+  a:any-link {
+    color: inherit;
+    @include underline-on-hover;
+  }
+
+  .current {
+    font-weight: bold;
+  }
+}

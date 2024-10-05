@@ -3,5 +3,6 @@
 
 $baseurl: "{{ site.baseurl }}";
 @import "base";
+@import "toc";
 @import "gallery";
 @import "landing";

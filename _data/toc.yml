@@ -1,8 +1,22 @@
 - title: About
-  url: /about
+  pages:
+    - title: History
+      url: /history
+    - title: Family
+      url: /family
+    - title: FAQ
+      url: /faq
 - title: Process
   url: /process
 - title: Who
-  url: /who
+  pages:
+    - title: Who are we?
+      url: /who
+    - title: Artist Roster
+      url: /roster
 - title: Get Involved
-  url: /contribute
+  pages:
+    - title: Collaborate
+      url: /collaborate
+    - title: Donate
+      url: /donate

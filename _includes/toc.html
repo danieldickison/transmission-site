@@ -1,0 +1,26 @@
+<menu class="toc">
+  {% for item in site.data.toc %}
+  <li>
+    {% if item.url %}
+      <a href="{{ item.url | relative_url }}"
+        {% if page.permalink == item.url %}class="current"{% endif %}
+      >
+        {{ item.title }}
+      </a>
+    {% else %}
+      <label><input type="radio" name="toc-radio">{{ item.title }}</label>
+      <menu class="submenu">
+        {% for page in item.pages %}
+        <li>
+          <a href="{{ page.url | relative_url }}"
+            {% if page.permalink == page.url %}class="current"{% endif %}
+          >
+            {{ page.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </menu>
+    {% endif %}
+  </li>
+  {% endfor %}
+</menu>

@@ -40,32 +40,8 @@
       <h1><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h1>
     </header>
     <nav id="site-toc">
-      <menu>
-        {% for site_page in site.data.toc %}
-        <li>
-          <a href="{{ site_page.url | relative_url }}"
-              {% if page.permalink == site_page.url %}class="current"{% endif %}
-          >
-            {{ site_page.title }}
-          </a>
-        </li>
-        {% endfor %}
-      </menu>
+      {% include toc.html %}
     </nav>
-    {% if page.toc %}
-      <nav id="page-toc">
-        <h3>On this page…</h3>
-        <menu>
-          {% for section in page.toc %}
-          <li>
-            <a href="{{ section.url }}">
-              {{ section.title }}
-            </a>
-          </li>
-          {% endfor %}
-        </menu>
-      </nav>
-    {% endif %}
     <main>
       {{ content }}
     </main>
