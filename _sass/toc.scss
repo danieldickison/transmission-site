@@ -64,6 +64,7 @@
       // animate submenu expansion
       display: grid;
       grid-template-rows: max-content 0fr;
+      grid-template-columns: max-content;
       transition: grid-template-rows 250ms ease-out;
 
       /* &:hover, */
