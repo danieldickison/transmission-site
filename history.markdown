@@ -1,6 +1,9 @@
 ---
 permalink: /history
+main_class: history
 ---
+
+<div class="text-content" markdown="1">
 
 ## History
 
@@ -8,7 +11,9 @@ The Transmissions Quilt Project started with the simple impulse to make affirmin
 
 This new chapter is just a more elaborate version of the original project. The impulses are the same: welcome trans people to themselves shower them with gifts and offer the reminder that the web of life holds them fiercely.
 
-<div class="col-left" markdown="1">
+</div>
+
+<div class="text-content" markdown="1">
 
 ### Chapter 1
 
@@ -20,6 +25,10 @@ This spurred me to make them a quilt (my first quilt!) in the hopes of welcoming
 From there, I went on to make a series of these quilts for trans friends.
 Not baby blankets, per se, but arrival objects. The piece that sees and
 welcomes them. I made six more.
+
+</div>
+
+<div class="text-content" markdown="1">
 
 ### Chapter 2
 
@@ -43,8 +52,5 @@ social weave. A culminating exhibit is one version of this witnessing.
 
 </div>
 
-<div class="col-right" markdown="1">
-
-{% include gallery.html asset_path="chapter-1" %}
-
-</div>
+{% include gallery.html asset_path="history-left" %}
+{% include gallery.html asset_path="history-right" %}

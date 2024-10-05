@@ -1,54 +1,108 @@
 @import 'text';
+@import 'viewports';
 
-menu.toc {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+#site-toc {
+  padding: 1ex;
+  z-index: 1;
+  @include blur-background;
+  font-weight: 300;
+  /* font-size: 80%; */
 
-  > li {
-    white-space: nowrap;
+  @media all and (min-width: $width-wide) {
+    grid-row: main;
+    grid-column: 1;
+    justify-self: start;
+    position: sticky;
+    top: 0;
 
-    // animate submenu expansion
+    > .toc-toggle {
+      display: none;
+    }
+  }
+
+  @media not all and (min-width: $width-wide) {
+    position: fixed;
+    top: 0;
+    right: 0;
     display: grid;
     grid-template-rows: max-content 0fr;
+    justify-items: right;
+
     transition: grid-template-rows 250ms ease-out;
 
-    /* &:hover, */
-    &:has(input:checked),
-    &:has(.current) {
+    &:has(.toc-toggle input:checked) {
       grid-template-rows: max-content 1fr;
-      label {
-        font-style: italic;
-        &:hover {
-          text-decoration: none;
+    }
+
+    > .toc-toggle {
+      display: block;
+      transform: rotate(-360deg) translateY(-8px);
+      transform-origin: center;
+      transition: transform 250ms ease-out;
+      user-select: none;
+      cursor: pointer;
+      font-size: 28px;
+      font-weight: 500;
+      input {
+        display: none;
+      }
+      &:has(input:checked) {
+        transform: rotate(-180deg) translateY(-4px);
+      }
+    }
+  }
+
+  menu.toc {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+
+    > li {
+      white-space: nowrap;
+
+      // animate submenu expansion
+      display: grid;
+      grid-template-rows: max-content 0fr;
+      transition: grid-template-rows 250ms ease-out;
+
+      /* &:hover, */
+      &:has(input:checked),
+      &:has(.current) {
+        grid-template-rows: max-content 1fr;
+        label {
+          font-style: italic;
+          &:hover {
+            text-decoration: none;
+          }
         }
+      }
+
+      label {
+        cursor: pointer;
+        @include underline-on-hover;
+      }
+
+      input {
+        display: none;
+      }
+
+      menu.submenu {
+        margin-left: 1em;
+        padding: 0;
+        list-style-type: none;
+        overflow-y: hidden;
+        overflow-x: visible;
       }
     }
 
-    label {
-      cursor: pointer;
+    a:any-link {
+      color: inherit;
       @include underline-on-hover;
     }
 
-    input {
-      display: none;
+    .current {
+      font-weight: bold;
     }
-
-    menu.submenu {
-      margin-left: 1em;
-      padding: 0;
-      list-style-type: none;
-      overflow-y: hidden;
-      overflow-x: visible;
-    }
-  }
-
-  a:any-link {
-    color: inherit;
-    @include underline-on-hover;
-  }
-
-  .current {
-    font-weight: bold;
   }
 }

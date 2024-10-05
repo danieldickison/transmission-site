@@ -1,7 +1,10 @@
-#landing {
+main.landing {
+  grid-column: left / -1;
   position: relative;
   display: flex;
   justify-content: center;
+  margin-top: 1rem;
+  min-width: 740px;
 
   > p {
     white-space: pre;
