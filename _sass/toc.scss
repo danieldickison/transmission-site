@@ -14,10 +14,14 @@ menu.toc {
     transition: grid-template-rows 250ms ease-out;
 
     /* &:hover, */
-    &:has(input:checked) {
+    &:has(input:checked),
+    &:has(.current) {
       grid-template-rows: max-content 1fr;
       label {
         font-style: italic;
+        &:hover {
+          text-decoration: none;
+        }
       }
     }
 

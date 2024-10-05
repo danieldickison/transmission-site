@@ -1,0 +1,12 @@
+---
+permalink: /artists
+layout: default
+---
+
+{% for artist in site.data.artists %}
+  <section>
+    <img src="{{ artist.image | relative_url }}" alt="Sample art from {{ artist.name }}">
+    <h2>{{ artist.name }}</h2>
+    <p>{{ artist.bio }}</p>
+  </section>
+{% endfor %}

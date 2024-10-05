@@ -1,10 +1,5 @@
 ---
 permalink: /who
-toc:
-  - title: Who are we?
-    url: "#who-are-we"
-  - title: Artist Roster
-    url: "#artist-roster"
 ---
 
 ## Who are we? {#who-are-we}
@@ -45,8 +40,6 @@ Massachusetts and Wisconsin.
 ### Embroiderer
 
 * Sab
-
-![Line drawing of a pair of hands sewing]({{ "/assets/images/illustration-who.png" | relative_url }})
 
 Thank you to our collaborating organizations and funders for making this
 project possible.

@@ -1,6 +1,8 @@
 ---
-permalink: /contribute
+permalink: /collaborate
 ---
+
+## Collaborate
 
 We are currently closed for nominations as we have already
 selected the next 18 quilt recipients.
@@ -17,17 +19,3 @@ Please especially contact us if:
 - you are Bay Area venue who might want to exhibit these objects
 - you are a possible funder (individual or organizational) who
 would like to support this project and get trans artists paid
-
-## Donation Information
-
-* Giving a multiple of $1500 would sponsor a full quilt
-* Donating a multiple of $150 would sponsor a one artist’s
-contribution to a quilt
-
-With support from our 501c3 fiscal sponsor Kala Institute, we are
-able to accept tax-deductible donations including corporate
-matches.
-
-We also take direct donations through venmo/zelle/paypal/etc.
-Please contact [transmissionsquilts@gmail.com](mailto:transmissionsquilts@gmail.com) if you have ideas
-about how to financially support this project.

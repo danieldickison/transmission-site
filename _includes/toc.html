@@ -10,12 +10,12 @@
     {% else %}
       <label><input type="radio" name="toc-radio">{{ item.title }}</label>
       <menu class="submenu">
-        {% for page in item.pages %}
+        {% for sub in item.pages %}
         <li>
-          <a href="{{ page.url | relative_url }}"
-            {% if page.permalink == page.url %}class="current"{% endif %}
+          <a href="{{ sub.url | relative_url }}"
+            {% if page.permalink == sub.url %}class="current"{% endif %}
           >
-            {{ page.title }}
+            {{ sub.title }}
           </a>
         </li>
         {% endfor %}
