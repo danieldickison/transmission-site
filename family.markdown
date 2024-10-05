@@ -13,7 +13,7 @@ of the textile world.
 
 Below are short, living lists of some of these
 projects. They’re quite incomplete. Please contact
-[transmissionsquilts@gmail.com](mailto:transmissionsquilts@gmail.com) if you have other
+[{{ site.email }}](mailto:{{ site.email }}) if you have other
 projects that feel like they belong here.
 
 ### Project Lineage

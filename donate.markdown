@@ -13,5 +13,5 @@ able to accept tax-deductible donations including corporate
 matches.
 
 We also take direct donations through venmo/zelle/paypal/etc.
-Please contact [transmissionsquilts@gmail.com](mailto:transmissionsquilts@gmail.com) if you have ideas
+Please contact [{{ site.email }}](mailto:{{ site.email }}) if you have ideas
 about how to financially support this project.

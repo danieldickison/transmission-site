@@ -9,7 +9,7 @@ selected the next 18 quilt recipients.
 
 This project has become itself due to the random reachings out
 of people who are excited to collaborate. Contact
-[transmissionsquilts@gmail.com](mailto:transmissionsquilts@gmail.com) if you’d like to be involved in
+[{{ site.email }}](mailto:{{ site.email }}) if you’d like to be involved in
 any way.
 
 Please especially contact us if:

@@ -64,7 +64,7 @@ someone(s) from this page will sub in to help out.
 
 If you are a trans artist and interested in being part
 of this list, please message
-[transmissionsquilts@gmail.com](mailto:transmissionsquilts@gmail.com) with your name,
+[{{ site.email }}](mailto:{{ site.email }}) with your name,
 medium(s) and a bit about you. These commissions
 come with a small honorarium.
 
