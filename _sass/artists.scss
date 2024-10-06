@@ -1,0 +1,53 @@
+.artist-list {
+  display: grid;
+  grid-template-columns:
+    1fr minmax(100px, 200px) 1fr minmax(min-content, 10fr) 1fr;
+  grid-row-gap: 2rem;
+
+  > .artist {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: subgrid;
+    grid-template-rows:
+      1fr repeat(4, max-content) 1fr;
+    grid-template-areas:
+      "left image gap top right"
+      "left image gap name right"
+      "left image gap link right"
+      "left image gap media right"
+      "left image gap blurb right"
+      "left image gap bottom right";
+    align-items: center;
+    padding: 1rem 0;
+    background-color: var(--color-card-bg);
+
+    > img {
+      grid-area: image;
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      border-radius: 50%;
+      overflow: hidden;
+      background: purple;
+    }
+
+    > .name {
+      grid-area: name;
+    }
+
+    > .link {
+      grid-area: link;
+    }
+
+    > .media {
+      grid-area: media;
+    }
+
+    > .blurb {
+      grid-area: blurb;
+    }
+
+    h3, p {
+      margin: 0;
+    }
+  }
+}

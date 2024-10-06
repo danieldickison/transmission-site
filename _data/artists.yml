@@ -1,6 +1,24 @@
-- name: Cam McCuskey
-  image: cam_mccuskey.jpg
-- name: Ro Oppenheimer
-  image: ro_oppenheimer.jpg
-- name: Kerby Urbanowski
-  image: kerby_urbanowski.jpg
+- name: Cam
+  pronouns: they/them
+  instagram: cam_mender_in_leaf
+  media: prints & illustrations
+  blurb: white, nonbinary, Bay Area
+  image: cam.jpg
+- name: Rose
+  pronouns: they/them
+  instagram: loveletter_chainmail
+  media: chainmail & tattoos
+  blurb: Korean, nonbinary, PDX
+  image: rose.jpg
+- name: Ro
+  pronouns: they/them
+  instagram: megillat.guf
+  media: tattoos & ceramics
+  blurb: white, Jewish, nonbinary, NYC
+  image: ro.jpg
+- name: Ry
+  pronouns: they/he
+  instagram: ry_noor
+  media: cyanotypes & photography
+  blurb: Jordanian, nonbinary, Bay Area & LA
+  image: ry.jpg
