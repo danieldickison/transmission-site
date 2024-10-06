@@ -26,7 +26,7 @@
     right: 0;
     display: grid;
     grid-template-rows: max-content 0fr;
-    justify-items: right;
+    justify-items: stretch;
 
     transition: grid-template-rows 250ms ease-out;
 
@@ -36,17 +36,21 @@
 
     > .toc-toggle {
       display: block;
-      transform: rotate(-360deg) translateY(-8px);
-      transform-origin: center;
-      transition: transform 250ms ease-out;
       user-select: none;
       cursor: pointer;
       font-size: 28px;
       font-weight: 500;
-      input {
+      text-align: right;
+      > input {
         display: none;
       }
-      &:has(input:checked) {
+      > .icon {
+        display: inline-block;
+        transform: rotate(-360deg) translateY(-8px);
+        transform-origin: center;
+        transition: transform 250ms ease-out;
+      }
+      &:has(input:checked) > .icon {
         transform: rotate(-180deg) translateY(-4px);
       }
     }
