@@ -54,4 +54,4 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 ### Web Design
 
-* [Daniel Dickison](https://danieldickison.com/)
+* [Daniel D.](https://danieldickison.com/)
