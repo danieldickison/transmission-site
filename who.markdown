@@ -6,7 +6,7 @@ permalink: /who
 
 Each of these quilts is made collaboratively by a team of 5-8 trans and queer artists. This includes interviewers, audio editors, quilters and more. The project vision is also held by a team of trans and queer community based artists. We’re also supported by a broad array of informal advisors, sweeties, therapists, funders, grandparents and teachers who have laid the path that this project walks down. Thank you to each of them for the ways they have created this work.
 
-This project takes place primarily on Ohlone land in the East Bay, California. We also have pop-up versions taking place in Maine, Western Massachusetts and Wisconsin.
+This project takes place primarily on Ohlone land in the East Bay, California. We also have pop-up versions taking place in Maine, Western Massachusetts, Oregon and Wisconsin.
 
 ### Directors
 
@@ -20,10 +20,11 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 ### Quilters
 
-* [Cordy J.](http://corduroyjoan.com) (Oakland)
+* [Cordy J.](http://corduroyjoan.com) (East Bay)
 * [Travis C.](https://www.travisclough.com/) (Maine)
 * [Dan T.](https://www.dantoomre.com/) (Maine)
 * [Joey D.](https://www.instagram.com/fish_of_salvation/?hl=en) (Massachusetts)
+* [Mozl M.](https://www.instagram.com/part.heaven/?hl=en) (Oregon)
 
 ### Audio Editors
 
@@ -37,11 +38,12 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 * [Audrey S.](http://therapywithaudrey.com)
 * [Summar A.](https://summarabdallah.com/)
 * [Melissa W.](https://melissawymantherapy.com/)
-* Alastair B.
+* [Alastair B.](https://www.kalw.org/people/alastair-boone)
 * Holly R.
 
 ### Collaborating Organizations
 
+* [Inky Fingers Print Shop](https://www.inkyfingersprintshop.com/)
 * [Richmond Art Center](http://richmondartcenter.org)
 * [Berkeley Public Library](https://www.berkeleypubliclibrary.org/)
 * [Kala Art Institute](http://kala.org)
@@ -51,6 +53,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 * [East Bay Heritage Quilters Guild](http://ebhq.org)
 * [Berkeley Civic Arts Grant](https://berkeleyca.gov/community-recreation/civic-arts/civic-arts-grants)
 
-### Web Design
+### Website
 
-* [Daniel D.](https://danieldickison.com/)
+* [Daniel D.](https://danieldickison.com/) - design
+* [Cam M.](https://www.instagram.com/cam_mender_in_leaf/?hl=en) - illustrations
