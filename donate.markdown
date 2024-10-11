@@ -4,7 +4,7 @@ permalink: /donate
 
 ## Donation Information
 
-This project hires 8 trans artists to collaborate on each quilt with a goal of 20 quilts over the next two years. We work with interviewers, audio editors, commissioned artists and textile designers and quilters. We also pay a team of trans and queer community advisors who help envision the project on a broad scale. That is to say, these quilts cost money, and if you’re someone with access to that resource, we’d love your support.
+This project hires 8 trans artists to collaborate on each quilt. Our project goal is to make 20 quilts over the next two years. We work with interviewers, audio editors, commissioned artists and textile designers and quilters. We also pay a team of trans and queer community advisors who help envision the project on a broad scale. That is to say, these quilts cost money, and if you’re someone with access to that resource, we’d love your support.
 
 80% of the total project budget goes directly to trans artists with the remaining portion allocated for materials.
 
