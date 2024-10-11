@@ -7,7 +7,7 @@ permalink: /process
 Each piece begins when someone is nominated to receive a quilt.
 
 Once selected, the quilt recipient follows the three phase
-process* outlined below. The phases step through ever widening
+process outlined below. The phases step through ever widening
 concentric circles of community. They span from 1:1 to small
 group to a final larger gathering.
 
@@ -46,5 +46,5 @@ Further down the line, we will explore how to exhibit these pieces
 collectively.
 
 
-<em>\* This process works with both adults and teens and modifies slightly
+<em>\ This process works with both adults and teens and modifies slightly
 along the way to accommodate our younger siblings.</em>
