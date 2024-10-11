@@ -46,5 +46,5 @@ Further down the line, we will explore how to exhibit these pieces
 collectively.
 
 
-<em>\ This process works with both adults and teens and modifies slightly
+<em> This process works with both adults and teens and modifies slightly
 along the way to accommodate our younger siblings.</em>
