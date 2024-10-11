@@ -2,7 +2,7 @@
 permalink: /process
 ---
 
-## The Process
+## Process
 
 Each piece begins when someone is nominated to receive a quilt.
 
