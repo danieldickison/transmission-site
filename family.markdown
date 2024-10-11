@@ -34,3 +34,6 @@ projects that feel like they belong here.
   siblings
 - [**Many Hands Make a Quilt**](https://shop.tatter.org/products/many-hands-make-a-quilt-short-stories-of-radical-quilting-by-jess-bailey?variant=44180330742081):
   Zine written by Jess Bailey celebrating the many histories of radical quilting
+- [**Emancipation from Sin**](https://www.instagram.com/angelalbieanjos/?hl=en):
+  Painting series by Bay Area artist Angel Anjos investigating Mythology, Folklore, and Religion for the ways the Society has constructed the “other”.
+  
