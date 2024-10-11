@@ -23,12 +23,10 @@ gender-exploded people could gather and make work together. They
 share stitches but perhaps more importantly they share food, gossip and
 the commitment to keeping each other safe. They are the places where
 people who are not given places make themselves a place.
-How is this a textile project when many of the collaborating artists are
-working in other mediums?
 
-I make quilts because they can hold anything. This project is a celebration
-and a test of that. Let’s see how jazz music, tattoos and a ceramic mug can
-smash together to make a quilt.
+### How is this a textile project when many of the collaborating artists are working in other mediums?
+
+Quilts can hold anything. This project is a celebration and a test of that. Let’s see how jazz music, tattoos and a ceramic mug can smash together to make a quilt.
 
 ### Does my friend deserve a quilt?
 
