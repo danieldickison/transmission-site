@@ -27,8 +27,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 ### Audio Editors
 
-* Rhae D.
-* Maris T.
+* [Rhae D.](https://www.instagram.com/rhaedawn/?hl=en)
 * [Iru E.](https://iruekpunobi.com/)
 * [Nino C.](https://www.instagram.com/princejellobeb/?hl=en)
 * [Jacqui F.](https://stabbyunicorn.media/)
