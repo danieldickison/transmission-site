@@ -2,6 +2,8 @@
   pages:
     - title: History
       url: /history
+    - title: Gallery
+      url: /gallery
     - title: Family
       url: /family
     - title: FAQ

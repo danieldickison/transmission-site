@@ -3,19 +3,12 @@ permalink: /history
 main_class: history
 ---
 
-<div class="text-content" markdown="1">
-
 ## History
 
 The Transmissions Quilt Project started with the simple impulse to make affirming gift objects for trans friends and lovers. It is now blossoming with the hopes of sharing these objects with broader community.
 As it grows, the impulses are the same: welcome trans people to themselves, shower them with gifts, and offer the reminder that the web of life holds them fiercely.
 
-
 (the first person in this narrative refers to artist Cordy Joan)
-
-</div>
-
-<div class="text-content" markdown="1">
 
 ### Chapter 1
 
@@ -26,10 +19,6 @@ This spurred me to make them a quilt in the hopes of welcoming them into their c
 From there, I went on to make a series of these quilts for trans friends.
 Not baby blankets, per se, but arrival objects. The piece that sees and
 welcomes them. I made six more.
-
-</div>
-
-<div class="text-content" markdown="1">
 
 ### Chapter 2
 
@@ -42,7 +31,5 @@ People are nominated to receive a quilt. As we make their quilt, they get to cho
 
 Further down the line, these quilts and the various elements made along the way will be exhibited. The steps of this project are crafted to mirror the variety of ways that trans people come to know and locate themselves in the broader social weave. A culminating exhibit is one version of this locating.
 
-</div>
-
-{% include gallery.html asset_path="history-left" %}
-{% include gallery.html asset_path="history-right" %}
+{% capture gallery_href %}{{ "/gallery" | relative_url }}{% endcapture %}
+{% include link-button.html class="gallery" href=gallery_href label="Gallery" %}
