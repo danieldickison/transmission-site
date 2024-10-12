@@ -18,7 +18,31 @@
   image: /assets/images/artists/ro.png
 - name: Ry
   pronouns: they/he
-  instagram: ry_noor
+  instagram: ry__noor
   media: cyanotypes & photography
-  blurb: Jordanian, nonbinary, Bay Area & LA
+  blurb: Jordanian, nonbinary, Bay Area
   image: /assets/images/artists/ry.jpg
+- name: Jes
+  pronouns: they/them
+  instagram: jesyung
+  media: textiles & natural dyes & photography
+  blurb: mixed Chinese, trans nb, Oakland
+  image: /assets/images/artists/jes.jpg
+- name: Carmina
+  pronouns: they/them
+  instagram: nahualle
+  media: voice & ritual performance & chainmail & fiber
+  blurb: Indigenous Mexican, Basque, Sefardí
+  image: /assets/images/artists/carmina.jpg
+- name: Yana
+  pronouns: they/them
+  instagram: art.by.yanasternbergermoye
+  media: painting & drawing
+  blurb: Black, German, Queer, Nonbinary, PDX
+  image: /assets/images/artists/yana.jpg
+- name: Dev
+  pronouns: they/them
+  instagram: badartstorage
+  media: writing & tattoos
+  blurb: white, nonbinary, PDX
+  image: /assets/images/artists/dev.jpg
