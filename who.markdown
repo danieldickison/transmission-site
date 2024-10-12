@@ -8,6 +8,12 @@ Each quilt is made by a collaborative team of 8 trans and queer artists. This in
 
 This project takes place primarily on Ohlone land in the East Bay, California. We also have pop-up versions taking place in Maine, Western Massachusetts, Oregon and Wisconsin.
 
+<img
+  id="illustration-who"
+  src="/assets/images/illustration-who-2.png"
+  width="372" height="218"
+/>
+
 ### Directors
 
 * [Cordy J.](http://corduroyjoan.com)

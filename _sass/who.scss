@@ -1,0 +1,7 @@
+#illustration-who {
+  margin-bottom: -100px;
+
+  @media (min-width: $width-wide) {
+    margin: 0 10% -100% auto;
+  }
+}
