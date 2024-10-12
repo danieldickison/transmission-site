@@ -4,7 +4,7 @@ permalink: /process
 
 ## Process
 
-Each piece begins when someone is nominated to receive a quilt.
+Each piece begins when someone is [nominated]({{ "/nominate" | relative_url }}) to receive a quilt.
 
 Once selected, the quilt recipient follows the three phase
 process outlined below. The phases step through ever widening
@@ -49,10 +49,11 @@ put in the final stitches.
 The quilt recipient then ends up with a quilt, audio files and
 pieces of art made in phase two.
 
-
 Further down the line, we will explore how to exhibit these pieces
 collectively.
 
+{% capture nominate_href %}{{ "/nominate" | relative_url }}{% endcapture %}
+{% include link-button.html class="nominate" href=nominate_href label="Nominate" %}
 
 <em> This process works with both adults and teens and modifies slightly
 along the way to accommodate our younger siblings.</em>
