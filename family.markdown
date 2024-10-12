@@ -1,20 +1,30 @@
 ---
 permalink: /family
+main_class: family
 ---
 
 ## Family
 
-This project exists in an impossibly complex web of
-trans and queer textile projects that extends both
-backwards and sideways through time.
+<div class="two-col" markdown="1">
+  <img
+    id="illustration-family"
+    src="/assets/images/illustration-family.png"
+    alt="Line drawing of two hands tying a stitch in a quilt"
+    width="333" height="263"
+  />
 
-We also find siblingship with other projects outside
-of the textile world.
+  This project exists in an impossibly complex web of
+  trans and queer textile projects that extends both
+  backwards and sideways through time.
 
-Below are short, living lists of some of these
-projects. They’re quite incomplete. Please contact
-[{{ site.email }}](mailto:{{ site.email }}) if you have other
-projects that feel like they belong here.
+  We also find siblingship with other projects outside
+  of the textile world.
+
+  Below are short, living lists of some of these
+  projects. They’re quite incomplete. Please contact
+  [{{ site.email }}](mailto:{{ site.email }}) if you have other
+  projects that feel like they belong here.
+</div>
 
 ### Project Lineage
 
@@ -36,4 +46,3 @@ projects that feel like they belong here.
   Zine written by Jess Bailey celebrating the many histories of radical quilting
 - [**Emancipation from Sin**](https://www.instagram.com/angelalbieanjos/?hl=en):
   Painting series by Bay Area artist Angel Anjos investigating Mythology, Folklore, and Religion for the ways the Society has constructed the “other”.
-  

@@ -1,5 +1,6 @@
 ---
 permalink: /who
+main_class: who
 ---
 
 ## Who are we?
