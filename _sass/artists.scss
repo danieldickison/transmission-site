@@ -1,7 +1,11 @@
 .artist-list {
   display: grid;
   grid-template-columns:
-    1fr minmax(100px, 200px) 1fr minmax(min-content, 10fr) 1fr;
+    minmax(1rem, 1fr)
+    minmax(100px, 200px)
+    1rem
+    minmax(min-content, max-content)
+    minmax(1rem, 1fr);
   grid-row-gap: 2rem;
 
   > .artist {
