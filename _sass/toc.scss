@@ -45,13 +45,24 @@
         display: none;
       }
       > .icon {
-        display: inline-block;
-        transform: rotate(-360deg) translateY(-8px);
+        display: inline-flex;
+        align-items: center;
+        width: 25px;
+        height: 14px;
+        border-top: 3px solid var(--color-text-fg);
+        border-bottom: 3px solid var(--color-text-fg);
         transform-origin: center;
         transition: transform 250ms ease-out;
+
+        &::before {
+          content: ' ';
+          display: block;
+          width: 100%;
+          height: 3px;
+          background-color: var(--color-text-fg);}
       }
       &:has(input:checked) > .icon {
-        transform: rotate(-180deg) translateY(-4px);
+        transform: rotate(-90deg);
       }
     }
   }
