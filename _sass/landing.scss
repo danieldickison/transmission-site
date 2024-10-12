@@ -1,32 +1,62 @@
 main.landing {
-  grid-column: left / -1;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  margin-top: 1rem;
-  min-width: 740px;
-
   > p {
     white-space: pre;
-    position: absolute;
     margin: 0;
   }
 
-  #landing-p1 {
-    top: -46px;
-    right: calc(50% + 65px);
-    font-size: 95%;
+  @media not all and (min-width: $width-wide) {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    align-items: center;
+    padding: 1em;
+
+    #landing-p1 {
+      grid-row: 1;
+    }
+
+    > img {
+      grid-row: 2;
+    }
+
+    #landing-p2 {
+      grid-row: 3;
+    }
+
+    #landing-p3 {
+      grid-row: 4;
+    }
   }
 
-  #landing-p2 {
-    top: 23px;
-    left: calc(50% + 85px);
-    font-size: 75%;
-  }
+  @media (min-width: $width-wide) {
+    grid-column: left / -1;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    min-width: 740px;
 
-  #landing-p3 {
-    bottom: -52px;
-    left: calc(50% + -3px);
-    font-size: 85%;
+    > p {
+      position: absolute;
+    }
+
+    #landing-p1 {
+      top: -46px;
+      right: calc(50% + 65px);
+      font-size: 95%;
+    }
+
+    #landing-p2 {
+      top: 23px;
+      left: calc(50% + 85px);
+      font-size: 75%;
+    }
+
+    #landing-p3 {
+      bottom: -52px;
+      left: calc(50% + -3px);
+      font-size: 85%;
+    }
   }
 }
