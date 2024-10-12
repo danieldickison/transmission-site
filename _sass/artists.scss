@@ -25,13 +25,15 @@
     padding: 1rem 0;
     background-color: var(--color-card-bg);
 
-    > img {
+    > .image {
       grid-area: image;
-      width: 100%;
-      aspect-ratio: 1 / 1;
-      border-radius: 50%;
-      overflow: hidden;
-      object-fit: cover;
+      > img {
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        border-radius: 50%;
+        overflow: hidden;
+        object-fit: cover;
+      }
     }
 
     > .name {

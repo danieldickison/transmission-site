@@ -16,9 +16,11 @@ main_class: artists
 <section class="artist-list">
 {% for artist in site.data.artists %}
   <div class="artist">
-    <img
-      src="{{ artist.image | relative_url }}"
-      alt="Sample art from {{ artist.name }}">
+    <a class="image" href="{{ artist.image | relative_url }}">
+      <img
+        src="{{ artist.image | relative_url }}"
+        alt="Sample art from {{ artist.name }}">
+    </a>
     <h3 class="name">
       {{ artist.name }} ({{ artist.pronouns }})
     </h3>
