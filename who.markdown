@@ -4,7 +4,7 @@ permalink: /who
 
 ## Who are we?
 
-Each of these quilts is made collaboratively by a team of 5-8 trans and queer artists. This includes interviewers, audio editors, quilters and more. The project vision is also held by a team of trans and queer community based artists. We’re also supported by a broad array of informal advisors, sweeties, therapists, funders, grandparents and teachers who have laid the path that this project walks down. Thank you to each of them.
+Each quilt is made by a collaborative team of 8 trans and queer artists. This includes interviewers, audio editors, quilters and more. The project vision is also held by a team of trans and queer community based artists. We’re also supported by a broad array of informal advisors, sweeties, therapists, funders, grandparents and teachers who have laid the path that this project walks down. Thank you to each of them.
 
 This project takes place primarily on Ohlone land in the East Bay, California. We also have pop-up versions taking place in Maine, Western Massachusetts, Oregon and Wisconsin.
 
