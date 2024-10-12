@@ -2,6 +2,7 @@
 @import "colors";
 @import "text";
 @import "viewports";
+@import "link_button";
 
 @mixin blur-background {
   background: color-mix(in srgb, var(--color-html-bg), transparent 25%);
