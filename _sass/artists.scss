@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns:
     minmax(1rem, 1fr)
-    minmax(100px, 200px)
+    minmax(60px, 200px)
     1rem
     minmax(min-content, max-content)
     minmax(1rem, 1fr);
@@ -40,6 +40,7 @@
 
     > .link {
       grid-area: link;
+      word-break: break-word;
     }
 
     > .media {
