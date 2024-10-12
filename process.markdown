@@ -18,7 +18,11 @@ that hold us all together.
 
 The quilt recipient chooses a dear friend to interview them.
 
-![Line drawing of two people sitting on couches facing each other]({{ "/assets/images/illustration-phase-1.png" | relative_url }})
+<img
+  alt="Line drawing of two people sitting on couches facing each other"
+  src="{{ "/assets/images/illustration-phase-1.png" | relative_url }}"
+  width="589" height="284"
+/>
 
 The interview is audio recorded and edited down.
 
@@ -36,7 +40,11 @@ The quilter uses the three pieces of art to design a quilt.
 When the quilt is ready, we throw a community quilting bee to
 put in the final stitches.
 
-![Line drawing of three people surrounding an abstract quilt]({{ "/assets/images/illustration-phase-3.png" | relative_url }})
+<img
+  alt="Line drawing of three people surrounding an abstract quilt"
+  src="{{ "/assets/images/illustration-phase-3.png" | relative_url }}"
+  width="420" height="361"
+/>
 
 The quilt recipient then ends up with a quilt, audio files and
 pieces of art made in phase two.
