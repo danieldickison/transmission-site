@@ -46,7 +46,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 * [Summar A.](https://summarabdallah.com/)
 * [Melissa W.](https://melissawymantherapy.com/)
 * [Alastair B.](https://www.kalw.org/people/alastair-boone)
-* Holly R.
+* [Holly R.](truefalse.org)
 
 ### Collaborating Organizations
 
