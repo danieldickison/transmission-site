@@ -1,9 +1,3 @@
-- name: Cam
-  pronouns: they/them
-  instagram: cam_mender_in_leaf
-  media: prints & illustrations
-  blurb: white, nonbinary, Bay Area
-  image: /assets/images/artists/cam.jpg
 - name: Rose
   pronouns: they/them
   instagram: loveletter_chainmail
@@ -28,6 +22,12 @@
   media: textiles & natural dyes & photography
   blurb: mixed Chinese, trans nb, Oakland
   image: /assets/images/artists/jes.jpg
+  - name: Cam
+  pronouns: they/them
+  instagram: cam_mender_in_leaf
+  media: prints & illustrations
+  blurb: white, nonbinary, Bay Area
+  image: /assets/images/artists/cam.jpg
 - name: Carmina
   pronouns: they/them
   instagram: nahualle
