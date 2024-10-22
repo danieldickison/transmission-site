@@ -39,7 +39,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 * [Iru E.](https://iruekpunobi.com/)
 * [Nino C.](https://www.instagram.com/princejellobeb/?hl=en)
 * [Jacqui F.](https://stabbyunicorn.media/)
-* [Fendall F.] (https://fendallfulton.net/)
+* [Fendall F.](https://fendallfulton.net/)
 
 ### Project Advisors
 
