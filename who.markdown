@@ -27,7 +27,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 ### Quilters
 
-* [Cordy J.](http://corduroyjoan.com) (East Bay)
+* [Cordy J.](http://corduroyjoan.com) (California)
 * [Travis C.](https://www.travisclough.com/) (Maine)
 * [Dan T.](https://www.dantoomre.com/) (Maine)
 * [Joey D.](https://www.instagram.com/fish_of_salvation/?hl=en) (Massachusetts)
@@ -39,6 +39,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 * [Iru E.](https://iruekpunobi.com/)
 * [Nino C.](https://www.instagram.com/princejellobeb/?hl=en)
 * [Jacqui F.](https://stabbyunicorn.media/)
+* [Fendall F.] (https://fendallfulton.net/)
 
 ### Project Advisors
 
