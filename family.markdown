@@ -5,25 +5,27 @@ main_class: family
 
 ## Family
 
-<div class="two-col" markdown="1">
+This project exists in an impossibly complex web of
+trans and queer textile projects that extends both
+backwards and sideways through time.
+
+<div class="two-col">
   <img
-    id="illustration-family"
-    src="/assets/images/illustration-family.png"
-    alt="Line drawing of two hands tying a stitch in a quilt"
-    width="333" height="263"
+      class="left"
+      src="/assets/images/illustration-tree.png"
+      alt="Line drawing of a tree made out of threads"
+      width="333" height="253"
   />
 
-  This project exists in an impossibly complex web of
-  trans and queer textile projects that extends both
-  backwards and sideways through time.
+  <div class="right" markdown="1">
+We also find siblingship with other projects outside
+of the textile world.
 
-  We also find siblingship with other projects outside
-  of the textile world.
-
-  Below are short, living lists of some of these
-  projects. They’re quite incomplete. Please contact
-  [{{ site.email }}](mailto:{{ site.email }}) if you have other
-  projects that feel like they belong here.
+Below are short, living lists of some of these
+projects. They’re quite incomplete. Please contact
+[{{ site.email }}](mailto:{{ site.email }}) if you have other
+projects that feel like they belong here.
+  </div>
 </div>
 
 ### Project Lineage
