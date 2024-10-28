@@ -24,5 +24,4 @@ Please especially contact us if:
 - you are venue who might want to exhibit these objects (Bay Area or not!)
 - you are a possible funder (individual or organizational) who
 would like to support this project and get trans artists paid
-  </div>
 </div>
