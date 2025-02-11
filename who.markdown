@@ -5,7 +5,7 @@ main_class: who
 
 ## Who are we?
 
-Each quilt is made by a collaborative team of 8 trans and queer artists. This includes interviewers, audio editors, quilters and more. The project vision is also held by a team of trans and queer community based artists. We’re also supported by a broad array of informal advisors, sweeties, therapists, funders, grandparents and teachers who have laid the path that this project walks down. Thank you to each of them.
+Each quilt is made by a collaborative team of 10 trans and queer artists. This includes interviewers, audio editors, quilters and more. The project vision is also held by a team of trans and queer community based artists. We’re also supported by a broad array of informal advisors, sweeties, therapists, funders, grandparents and teachers who have laid the path that this project walks down. Thank you to each of them.
 
 This project takes place primarily on Ohlone land in the East Bay, California. We also have pop-up versions taking place in Maine, Western Massachusetts, Oregon and Wisconsin.
 
@@ -19,27 +19,23 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 * [Cordy J.](http://corduroyjoan.com)
 * [Nino C.](https://www.instagram.com/princejellobeb/?hl=en)
+* [Cam M.](https://www.instagram.com/cam_mender_in_leaf/?hl=en)
 
 ### Producers
 
-* [Cam M.](https://www.instagram.com/cam_mender_in_leaf/?hl=en)
 * [Cat L.](https://coneshapetop.com/)
+* [Lou T.](https://www.good-hot.com/)
 
 ### Quilters
 
-* [Cordy J.](http://corduroyjoan.com) (California)
-* [Travis C.](https://www.travisclough.com/) (Maine)
-* [Dan T.](https://www.dantoomre.com/) (Maine)
-* [Joey D.](https://www.instagram.com/fish_of_salvation/?hl=en) (Massachusetts)
-* [Mozl M.](https://www.instagram.com/part.heaven/?hl=en) (Oregon)
+* [Cordy J.](http://corduroyjoan.com) (lead quilter)
+* 34 quilters spread across 10 states and 3 countries: please reach out if you'd like to learn more about or collaborate with any of our quilters
 
 ### Audio Editors
 
-* [Rhae D.](https://www.instagram.com/rhaedawn/?hl=en)
-* [Iru E.](https://iruekpunobi.com/)
-* [Nino C.](https://www.instagram.com/princejellobeb/?hl=en)
-* [Jacqui F.](https://stabbyunicorn.media/)
-* [Fendall F.](https://fendallfulton.net/)
+* [Nino C.](https://www.instagram.com/princejellobeb/?hl=en) (lead audio)
+* Audio editors: please reach out if you'd like to learn more about or collaborate with any of our audio editors
+
 
 ### Project Advisors
 
@@ -51,15 +47,34 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 ### Collaborating Organizations
 
-* [Inky Fingers Print Shop](https://www.inkyfingersprintshop.com/)
-* [Richmond Art Center](http://richmondartcenter.org)
 * [Berkeley Public Library](https://www.berkeleypubliclibrary.org/)
 * [Kala Art Institute](http://kala.org)
+* [GoodHot Sauna]((https://www.good-hot.com/))
+* [Cone Shape Top Center for Arts and Music](https://coneshapetop.com/)
+* [San Jose Museum of Quilts and Textiles](https://sj-mqt.org/)
+* [SPACE Gallery](https://space538.org/)
+* [Inky Fingers Print Shop](https://www.inkyfingersprintshop.com/)
 
 ### Current Funders
 
-* [East Bay Heritage Quilters Guild](http://ebhq.org)
+CITY / LOCAL
 * [Berkeley Civic Arts Grant](https://berkeleyca.gov/community-recreation/civic-arts/civic-arts-grants)
+* [Pacific Center for Human Growth](https://www.pacificcenter.org/)
+* [Sisters of Perpetual Indulgence](https://www.thesisters.org/)
+
+
+FOUNDATION
+* [Zellerbach Family Foundation](https://communityarts.zff.org/)
+* [Kindling Fund (Andy Warhol Foundation for the Arts Regional Regranting)](thekindlingfund.org)
+
+QUILT GUILDS
+* [East Bay Heritage Quilters Guild](http://ebhq.org)
+* [Garden State Quilters Guild](https://www.gardenstatequiltersguild.com/)
+
+INDIVIDUALS
+*many direct donations from individual friends, family and strangers have made this work possible!
+
+Thank you to our range of funders who ensure we can keep making quilts for trans people and paying trans artists to do so. We are also able to offer community workshops, events and exhibits as well as direct material support to trans people through these donations. Please head to our donation page if you feel like supporting more of this work.
 
 ### Website
 
