@@ -62,18 +62,22 @@ CITY / LOCAL
 * [Berkeley Civic Arts Grant](https://berkeleyca.gov/community-recreation/civic-arts/civic-arts-grants)
 * [Pacific Center for Human Growth](https://www.pacificcenter.org/)
 * [Sisters of Perpetual Indulgence](https://www.thesisters.org/)
+  
 
 
 FOUNDATION
 * [Zellerbach Family Foundation](https://communityarts.zff.org/)
 * [Kindling Fund (Andy Warhol Foundation for the Arts Regional Regranting)](thekindlingfund.org)
+  
 
 QUILT GUILDS
 * [East Bay Heritage Quilters Guild](http://ebhq.org)
 * [Garden State Quilters Guild](https://www.gardenstatequiltersguild.com/)
 
+
 INDIVIDUALS
 *many direct donations from individual friends, family and strangers have made this work possible!
+
 
 Thank you to our range of funders who ensure we can keep making quilts for trans people and paying trans artists to do so. We are also able to offer community workshops, events and exhibits as well as direct material support to trans people through these donations. Please head to our donation page if you feel like supporting more of this work.
 
