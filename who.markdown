@@ -40,7 +40,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 ### Project Advisors
 
 * [Alastair B.](https://www.kalw.org/people/alastair-boone)
-* [Noah G.] (
+* Noah G.
 * [Audrey S.](http://therapywithaudrey.com)
 * [Holly R.](truefalse.org)
 * [Melissa W.](https://melissawymantherapy.com/)
@@ -50,7 +50,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 * [Berkeley Public Library](https://www.berkeleypubliclibrary.org/)
 * [Kala Art Institute](http://kala.org)
-* [GoodHot Sauna]((https://www.good-hot.com/))
+* [GoodHot Sauna](https://www.good-hot.com/)
 * [Cone Shape Top Center for Arts and Music](https://coneshapetop.com/)
 * [San Jose Museum of Quilts and Textiles](https://sj-mqt.org/)
 * [SPACE Gallery](https://space538.org/)
