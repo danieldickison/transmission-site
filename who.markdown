@@ -7,7 +7,7 @@ main_class: who
 
 Each quilt is made by a collaborative team of 10 trans and queer artists. This includes interviewers, audio editors, quilters and more. The project vision is also held by a team of trans and queer community based artists. We’re also supported by a broad array of informal advisors, sweeties, therapists, funders, grandparents and teachers who have laid the path that this project walks down. Thank you to each of them.
 
-This project takes place primarily on Ohlone land in the East Bay, California. We also have pop-up versions taking place in Maine, Western Massachusetts, Oregon and Wisconsin.
+This project takes place primarily on Ohlone land in the East Bay, California. We also have clusters of quilters located in Maine, Western Massachusetts, Oregon and Wisconsin. Our individual artists and quilt recipients are spread even further, including Canada, Europe and Australia.
 
 <img
   id="illustration-who"
@@ -39,11 +39,12 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 ### Project Advisors
 
-* [Audrey S.](http://therapywithaudrey.com)
-* [Summar A.](https://summarabdallah.com/)
-* [Melissa W.](https://melissawymantherapy.com/)
 * [Alastair B.](https://www.kalw.org/people/alastair-boone)
+* [Noah G.] (
+* [Audrey S.](http://therapywithaudrey.com)
 * [Holly R.](truefalse.org)
+* [Melissa W.](https://melissawymantherapy.com/)
+* [Summar A.](https://summarabdallah.com/)
 
 ### Collaborating Organizations
 
