@@ -76,7 +76,7 @@ QUILT GUILDS
 
 
 INDIVIDUALS
-*many direct donations from individual friends, family and strangers have made this work possible!
+many direct donations from friends, family and strangers have made this work possible!
 
 
 Thank you to our range of funders who ensure we can keep making quilts for trans people and paying trans artists to do so. We are also able to offer community workshops, events and exhibits as well as direct material support to trans people through these donations. Please head to our donation page if you feel like supporting more of this work.
