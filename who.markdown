@@ -39,6 +39,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 ### Project Advisors
 
+* [Lasara F.A.](https://lasarafirefoxallen.substack.com/)
 * [Alastair B.](https://www.kalw.org/people/alastair-boone)
 * Noah G.
 * [Audrey S.](http://therapywithaudrey.com)
