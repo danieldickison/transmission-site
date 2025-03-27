@@ -43,10 +43,9 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 * [Alastair B.](https://www.kalw.org/people/alastair-boone)
 * Noah G.
 * [Audrey S.](http://therapywithaudrey.com)
+* [Jess B.](publiclibraryquilts.com)
 * [Holly R.](truefalse.org)
-* [Melissa W.](https://melissawymantherapy.com/)
-* [Summar A.](https://summarabdallah.com/)
-
+ 
 ### Collaborating Organizations
 
 * [Berkeley Public Library](https://www.berkeleypubliclibrary.org/)
@@ -63,7 +62,6 @@ CITY / LOCAL
 * [Berkeley Civic Arts Grant](https://berkeleyca.gov/community-recreation/civic-arts/civic-arts-grants)
 * [Pacific Center for Human Growth](https://www.pacificcenter.org/)
 * [Sisters of Perpetual Indulgence](https://www.thesisters.org/)
-  
 
 
 FOUNDATION
