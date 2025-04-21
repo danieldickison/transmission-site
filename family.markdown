@@ -35,7 +35,7 @@ projects that feel like they belong here.
 - [**Euphoria Quilt Project**](https://euphoriaquilt.com/):
   Trans and queer group quilt project all about gender-expansive joy
   (ongoing and national)
-- [**An Army of Lovers Cannot Fail**](https://artmetropole.com/events/an-army-of-lovers-cannot-fail-a-project-by-ginger-brooks-takahas)):
+- [**An Army of Lovers Cannot Fail**](https://artmetropole.com/events/an-army-of-lovers-cannot-fail-a-project-by-ginger-brooks-takahas):
   Queer quilting project offered by Ginger Brooks Takahashi offering quilting bees as spaces of dialogue, gathering and belonging. (past)
 
 ### Project Siblings
