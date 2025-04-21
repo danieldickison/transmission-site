@@ -41,9 +41,11 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 * [Lasara F.A.](https://lasarafirefoxallen.substack.com/)
 * [Jess B.](publiclibraryquilts.com)
+* [Sunny A. Smith](https://sunnyasmith.com/)
+* [Ebenezer Galluzzo](https://ebenezergalluzzo.com/)
 * [Alastair B.](https://www.kalw.org/people/alastair-boone)
-* Noah G.
 * [Holly R.](truefalse.org)
+* Noah G.
 * [Audrey S.](http://therapywithaudrey.com)
  
 ### Collaborating Organizations
