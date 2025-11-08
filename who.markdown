@@ -66,6 +66,7 @@ CITY / LOCAL
 * [Berkeley Civic Arts Grant](https://berkeleyca.gov/community-recreation/civic-arts/civic-arts-grants)
 * [Pacific Center for Human Growth](https://www.pacificcenter.org/)
 * [Sisters of Perpetual Indulgence](https://www.thesisters.org/)
+* [Southern Exposures: Alternative Exposures 2026](https://soex.org/alternative-exposure)
 
 
 FOUNDATION
