@@ -25,12 +25,13 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 
 * [Cat L.](https://coneshapetop.com/)
 * [Lou T.](https://www.good-hot.com/)
-* Sigrid E.
+* Sigrid
+* [Nish H.] (https://nish.world/)
 
 ### Quilters
 
 * [Cordy J.](http://corduroyjoan.com) (lead quilter)
-* 34 quilters spread across 10 states and 3 countries: please reach out if you'd like to learn more about or collaborate with any of our quilters
+* 56 quilters spread across 25 states and 4 countries: please reach out if you'd like to learn more about or collaborate with any of our quilters
 
 ### Audio Editors
 
