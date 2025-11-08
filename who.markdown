@@ -26,7 +26,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 * [Cat L.](https://coneshapetop.com/)
 * [Lou T.](https://www.good-hot.com/)
 * Sigrid
-* [Nish H.] (https://nish.world/)
+* [Nish H.](https://nish.world/)
 
 ### Quilters
 
