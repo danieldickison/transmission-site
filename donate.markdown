@@ -16,6 +16,8 @@ Amounts:
 * giving $2,000 would sponsor a full quilt
 * donating $200 would sponsor one artist’s contribution to a quilt
 
+We have a project gofundme [here](https://gofund.me/edaf178a)
+
 This project is 501c3 fiscally sponsored by Kala Institute. This allows us to receive tax-deductible gifts. It also means we can accept money from corporate matches, family foundations, certain grants, etc. If you work at a job with corporate match benefits, please reach out! And thank you to Kala for that support.
 
 Please note: if you donate through Kala, 10% of your donation will be taken away for administrative fees. If you’re able to donate directly through check or venmo, we will get 100% of the funds. Please message [{{site.email}}](mailto:{{ site.email }}) if you’d like to support but need to do so through some other channel.
