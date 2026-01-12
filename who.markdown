@@ -7,8 +7,6 @@ main_class: who
 
 Each quilt is made by a collaborative team of 10 trans and queer artists. This includes interviewers, audio editors, quilters and more. The project vision is also held by a team of trans and queer community based artists. We’re also supported by a broad array of informal advisors, sweeties, therapists, funders, grandparents and teachers who have laid the path that this project walks down. Thank you to each of them.
 
-This project takes place primarily on Ohlone land in the East Bay, California. We also have clusters of quilters located in Maine, Western Massachusetts, Oregon and Wisconsin. Our individual artists and quilt recipients are spread even further, including Canada, Europe and Australia.
-
 <img
   id="illustration-who"
   src="/assets/images/illustration-who-2.png"
@@ -31,7 +29,7 @@ This project takes place primarily on Ohlone land in the East Bay, California. W
 ### Quilters
 
 * [Cordy J.](http://corduroyjoan.com) (lead quilter)
-* 56 quilters spread across 25 states and 4 countries: please reach out if you'd like to learn more about or collaborate with any of our quilters
+* 56 quilters of various styles and experience. Please reach out if you'd like to be put in touch with any of our quilters
 
 ### Audio Editors
 
@@ -67,6 +65,7 @@ CITY / LOCAL
 * [Pacific Center for Human Growth](https://www.pacificcenter.org/)
 * [Sisters of Perpetual Indulgence](https://www.thesisters.org/)
 * [Southern Exposures: Alternative Exposures 2026](https://soex.org/alternative-exposure)
+* [Oregon Regional Arts and Culture Council](https://racc.org/)
 
 
 FOUNDATION
