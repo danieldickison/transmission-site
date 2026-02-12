@@ -6,7 +6,7 @@ permalink: /collaborate
 
 Thank you for viewing our Textile Talk! Here are some resources for you to learn more, get involved and support our work.
 
-As a reminder, we are fundraising to make 5 more quilts. Each quilt costs $2000 to pay up to 10 trans artists working across textiles, words, sound and photography. We would be so grateful if you have the means to contribute financially - some people like to fully sponsor a quilt, others opt for co-sponsorhip, and others support by "sponsoring an artist" for $200. Smaller numbers are perfect too, as in, any amount helps!!! Whatever is possible for you, we are grateful for the chance to keep making this work in a way that supports our community. It is rare for quilters to be paid meaningfully for our work. It is especially rare for trans/queer artists to be given the chance to do so. Remember, 91% of all money we raise goes directly to trans artists.
+We are fundraising to make 5 more quilts. Each quilt costs $2000 to pay up to 10 trans artists working across textiles, words, sound and photography. We would be so grateful if you have the means to contribute financially - some people like to fully sponsor a quilt, others opt for co-sponsorhip, and others support by "sponsoring an artist" for $200. Smaller numbers are perfect too, as in, any amount helps!!! Whatever is possible for you, we are grateful for the chance to keep making this work in a way that supports our community. It is rare for quilters to be paid meaningfully for our work. It is especially rare for trans/queer artists to be given the chance to do so. Remember, 91% of all money we raise goes directly to trans artists.
 
 
 [project website](https://transquilts.net/) 
