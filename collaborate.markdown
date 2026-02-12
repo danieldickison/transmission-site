@@ -19,7 +19,10 @@ As a reminder, we are fundraising to make more quilts, which each cost $2000 to 
 
 project venmo: @qwuilts
 
-or make a tax-deductible donation to Kala Art Institute, our fiscal sponsor. Please message Cordy directly to make this happen! Please note: this option loses 10% in admin fees but is a great option if you are making a larger gift.
+project email: transmissionsquilts@gmail.com
+
+Some people prefer to make a tax-deductible donation to Kala Art Institute, our fiscal sponsor. Please message the project email directly to make this happen! Please note: this one loses 10% in admin fees but is a great option if you are making a larger gift or if you are making a donation through a corporate matching program or DAF, etc.
+
 
 
 
