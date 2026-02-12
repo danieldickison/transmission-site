@@ -25,7 +25,7 @@ Some people prefer to make a tax-deductible donation to Kala Art Institute, our 
 
 
 And an invitation:
-This project has become itself due to the random reachings out
+this project has become itself due to the random reachings out
 of people who are excited to collaborate. Contact
 [{{ site.email }}](mailto:{{ site.email }}) if you’d like to be involved in
 any way.
