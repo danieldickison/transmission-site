@@ -16,3 +16,4 @@ main_class: sauna
       width="363" height="268"
   />
   <div class="left" markdown="1">
+stay tuned for more details
