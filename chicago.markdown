@@ -4,7 +4,7 @@ main_class: chicago
 ---
 ## Instructions for Care 
 ## Gallery Wrightwood, Logan Square
-## March 21 - May 9
+## March 21 - May 9, 2026
 
 ### a pair show with QuiltChurch Chicago
 
