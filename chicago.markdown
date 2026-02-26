@@ -3,7 +3,7 @@ permalink: /chicago
 main_class: chicago
 ---
 ## Instructions for Care 
-# Gallery Wrightwood, Logan Square
+## Gallery Wrightwood, Logan Square
 ## March 21 - May 9
 
 ### a collaborative quilts show in partnership with QuiltChurch Chicago
