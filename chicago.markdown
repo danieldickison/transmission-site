@@ -11,7 +11,7 @@ main_class: chicago
 <div class="two-col">
   <img
       class="right"
-      src="/assets/assets/images/QC_POSTER.PNG"
+      src="/assets/images/QC_POSTER.PNG"
       alt="tiled quilt flyer sharing details for a show in Chicago in March"
       width="363" height="268"
   />
