@@ -4,7 +4,7 @@ main_class: sauna
 ---
 ## Transmissions Sounds (an EP teaser)
 ## GoodHot Sauna. Richmond, CA
-## April 11 from 9a-7p
+## 9am - 7pm on April 11, 2026
 
 ### in collaboration with BUBBLES (queer and trans day)
 
