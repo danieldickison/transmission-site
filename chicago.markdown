@@ -27,5 +27,6 @@ As always, this show and continuing project is brought to life through so many l
 Hope to see you there xoxo 
 
 poster design thanks to @unrulydezignz 
+
 text by Eve
 
