@@ -20,7 +20,7 @@ Instructions For Care opens at Wrightwood Gallery (@gallerywrightwood) in Logan 
 
 The show, up through May 9th, will intertwine and highlight queer textiles made possible in community that aim to withstand/connect/flow through/transcend the distance of time. 
 
-Music devotions from Sylvia Ivy, Frey Like Frey, and Birdie (8pm) will follow the drawing of 2 (two!!) raffle winners. Come hear them sing, buy some merch and be surrounded by magic time bending objects
+Music devotions from Sylvia Ivy, Frey Like Frey, and Birdie (8pm) will follow the drawing of 2 (two!!) raffle winners. Come hear them sing, buy some merch and be surrounded by magic time bending objects.
 
 As always, this show and continuing project is brought to life through so many layers of hands and nets of support, including especially  studio host space @wallsturnedsideways <3 and the dedicated efforts of @clean.air.club 
 
