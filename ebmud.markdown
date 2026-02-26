@@ -4,7 +4,7 @@ main_class: ebmud
 ---
 ## Transmissions Photos
 ## East Bay MUD. Oakland, CA
-## June 3-30
+## June 3-30, 2026
 
 <div class="two-col">
   <img
