@@ -3,8 +3,8 @@ permalink: /chicago
 main_class: chicago
 ---
 ## Instructions for Care 
-## Location: Gallery Wrightwood, Logan Square
-## Dates: March 21 - May 9
+## Gallery Wrightwood, Logan Square
+## March 21 - May 9
 
 ### a collaborative quilts show in partnership with QuiltChurch Chicago
 
@@ -16,14 +16,16 @@ main_class: chicago
       width="363" height="268"
   />
   <div class="left" markdown="1">
-Quilts and audio both answer the question “what will last?” This question
-has always been relevant and yet feels particularly present these days.
+"Instructions For Care opens at Wrightwood Gallery (@gallerywrightwood) in Logan Square on March 21 between the hours of 6-10pm, and will exhibit 2 years worth of QuiltChurch projects alongside trans heirloom quilts and curtains made through the Transmissions Quilts Project. 
 
-What will last? The physical, the durable, the object from my grandma. If
-the future has people, may those people stay warm.
+The show, up through May 9th, will intertwine and highlight queer textiles made possible in community that aim to withstand/connect/flow through/transcend the distance of time. 
 
-What will last? The ambient, the fleeting, the short-wave audio file saved
-on this cassette. If the future has music, may we contribute to its
-soundscape.
+Music devotions from Sylvia Ivy, Frey Like Frey, and Birdie (8pm) will follow the drawing of 2 (two!!) raffle winners. Come hear them sing, buy some merch and be surrounded by magic time bending objects
+
+As always, this show and continuing project is brought to life through so many layers of hands and nets of support, including especially  studio host space @wallsturnedsideways <3 and the dedicated efforts of @clean.air.club 
+
+Hope to see you there xoxo 
+
+poster design thanks to @unrulydezignz" 
   </div>
 </div>
