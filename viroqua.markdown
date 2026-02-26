@@ -4,7 +4,7 @@ main_class: viroqua
 ---
 ## Transmissions Midwest
 ## RACK. Viroqua, WI
-## July 3-5, 2026.
+## July 3-5, 2026
 
 ### in partnership with RACK
 
