@@ -2,7 +2,7 @@
 permalink: /sauna
 main_class: sauna
 ---
-## Transmissions Sounds (an EP teaser)
+## Transmissions Sounds (an EP release teaser)
 ## GoodHot Sauna. Richmond, CA
 ## 9am - 7pm on April 11, 2026
 
