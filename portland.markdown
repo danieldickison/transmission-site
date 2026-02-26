@@ -4,7 +4,7 @@ main_class: portland
 ---
 ## Soft Edges
 ## Light Manufacturing. Portland, ME
-## May 4 - May 28
+## May 4 - May 28, 2026
 
 <div class="two-col">
   <img
