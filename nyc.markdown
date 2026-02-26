@@ -4,7 +4,7 @@ main_class: nyc
 ---
 ## Trans Art Fest
 ## Textile Arts Center. Brooklyn, NY
-## April 18-25
+## April 18-25, 2026
 
 ### a trans textiles group show
 
