@@ -6,7 +6,7 @@ main_class: chicago
 ## Gallery Wrightwood, Logan Square
 ## March 21 - May 9
 
-### a collaborative quilts show in partnership with QuiltChurch Chicago
+### a pair show with QuiltChurch Chicago
 
 <div class="two-col">
   <img
