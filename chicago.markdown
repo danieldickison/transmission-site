@@ -2,9 +2,11 @@
 permalink: /chicago
 main_class: chicago
 ---
-## Frequently Asked Questions
+## Instructions for Care 
+## Location: Gallery Wrightwood, Logan Square
+## Dates: March 21 - May 9
 
-### Why quilts and audio?
+### a collaborative quilts show in partnership with QuiltChurch Chicago
 
 <div class="two-col">
   <img
