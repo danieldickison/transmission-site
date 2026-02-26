@@ -4,7 +4,7 @@ main_class: belfast
 ---
 ## Transmissions Poetry
 ## Waterfall Arts. Belfast, ME
-## June 5-12
+## June 5-12, 2026
 
 ### in collaboration with Trans Poetics Archive 
 
