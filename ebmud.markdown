@@ -2,7 +2,7 @@
 permalink: /ebmud
 main_class: ebmud
 ---
-## Transmissions Photos
+## Transmissions Photoshow
 ## East Bay MUD. Oakland, CA
 ## June 3-30, 2026
 
