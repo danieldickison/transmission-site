@@ -6,8 +6,6 @@ main_class: foq
 ## Festival of Quilts. Birmingham, UK
 ## July 31 - August 2, 2026
 
-### in collaboration with BUBBLES (queer and trans day)
-
 <div class="two-col">
   <img
       class="right"
