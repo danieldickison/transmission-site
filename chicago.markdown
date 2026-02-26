@@ -11,8 +11,8 @@ main_class: chicago
 <div class="two-col">
   <img
       class="right"
-      src="/assets/images/illustration-audio.png"
-      alt="Line drawing of of a person wearing headphones from behind, with hands on the cans."
+      src="/assets/assets/images/QC_POSTER.PNG"
+      alt="tiled quilt flyer sharing details for a show in Chicago in March"
       width="363" height="268"
   />
   <div class="left" markdown="1">
