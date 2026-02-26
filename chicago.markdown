@@ -13,10 +13,9 @@ main_class: chicago
       class="right"
       src="/assets/images/QC_POSTER.PNG"
       alt="tiled quilt flyer sharing details for a show in Chicago in March"
-      width="363" height="268"
+      width="600" height="800"
   />
   <div class="left" markdown="1">
-      </div>
 </div>
 
 Instructions For Care opens at Wrightwood Gallery (@gallerywrightwood) in Logan Square on March 21 between the hours of 6-10pm, and will exhibit 2 years worth of QuiltChurch projects alongside trans heirloom quilts and curtains made through the Transmissions Quilts Project. 
