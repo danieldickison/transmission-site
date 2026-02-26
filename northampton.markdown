@@ -4,7 +4,7 @@ main_class: northampton
 ---
 ## Transmissions Quilts
 ## APE Ltd. Northampton, MA
-## June 15-22
+## June 15-22, 2026
 
 ### supported by the ARC program
 
