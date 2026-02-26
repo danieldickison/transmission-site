@@ -24,3 +24,7 @@
       url: /donate
     - title: Nominate
       url: /nominate
+- title: Tour
+  pages:
+    - title: March-May 2026 (Chicago)
+      url: /chicago
