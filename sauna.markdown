@@ -3,7 +3,7 @@ permalink: /sauna
 main_class: sauna
 ---
 ## Transmissions Sounds 
-##(a quilt-blessing pre-release)
+##a quilt-blessing pre-release
 ## GoodHot Sauna. Richmond, CA
 ## 9:30am - 8pm on April 11, 2026
 
