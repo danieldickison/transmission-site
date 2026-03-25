@@ -23,7 +23,7 @@ This event will include live performances from special guests, quilts and photos
 
 You do not need to book a sauna to attend! Individual tickets are being sold at a sliding scale of $5-$25 (NOTAFLOF!) and will get you access to live performances, the gallery grounds, a Transmissions zine, the album, and the community quilting bee. Food will be sold separately with 100% of proceeds donated to a family in Gaza. Come through!!!
 
-###[book here](https://good-hot.com/blankets) 
+### [book here](https://good-hot.com/blankets) 
 
 This album is being produced by Nish and Cordy and released through Cone Shape Top Imprint. Additional mastering support from Geoff Saba.
 
