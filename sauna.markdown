@@ -21,7 +21,7 @@ Transmissions Quilts is producing an ambient music album in collaboration with C
 
 This event will include live performances from special guests, quilts and photos installed throughout the space (think: sculpture garden) and warm broth and Chè Bắp (Vietnamese Sweet Corn Pudding) provided by @vietnomnom_oakland. 
 
-You do not need to book a sauna to attend! Individual tickets are being sold at a sliding scale of $5-$25 (NOTAFLOF!) and will get you access to live performances, the gallery grounds, a Transmissions zine, the album, and the community quilting bee. Food will be sold separately with 50% of proceeds to benefit @bay2gaza. Come through!!!
+You do not need to book a sauna to attend! Individual tickets are being sold at a sliding scale of $5-$25 (NOTAFLOF!) and will get you access to live performances, the gallery grounds, a Transmissions zine, the album, and the community quilting bee. Food will be sold separately with 100% of proceeds donated to a family in Gaza. Come through!!!
 
 ###[book here](https://good-hot.com/blankets) 
 
