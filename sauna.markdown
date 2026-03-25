@@ -13,7 +13,7 @@ main_class: sauna
       class="right"
       src="/assets/images/GHflyer.jpg"
       alt="photograph of a blanket against a backdrop of the San Francisco Bay. Text says Blankets and Bubbles. queer and trans day. music, food, performance, sauna. transmissions quilts and good hot. saturday april 11 all day."
-      width="363" height="268"
+      width="600" height="600"
   />
   <div class="left" markdown="1">
 
