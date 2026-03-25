@@ -11,7 +11,7 @@ main_class: nyc
 <img
       class="right"
       src="/assets/images/GenderMendFLYER.png"
-      alt="textile group show flyer called Gender Mend, against a backdrop of a trans person with green hair and a quilt draped around their shoulders entering the ocean"
+      alt="tiled quilt flyer sharing details for a show in Chicago in March"
       width="600" height="800"
 />
 
