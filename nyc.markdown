@@ -2,8 +2,8 @@
 permalink: /nyc
 main_class: nyc
 ---
-## Trans Art Fest
-## Textile Arts Center. Brooklyn, NY
+## Gender Mend
+## Textile Arts Center x Trans Art Fest. Brooklyn, NY
 ## April 18-25, 2026
 
 ### a trans textiles group show
@@ -30,5 +30,5 @@ Artists Include: Elliot Rockart, Hee Eun Chung, Moses Aina, Transmissions Quilts
 
 Curated by Milo Godfrey @milo.k.godfrey
 
-Featured Artwork: “Ro”, by Transmissions Quilts
+Featured Artwork: “Quilt for Ro”, by Transmissions Quilts
 Photo: Kade Joy @kadejoyphotography
