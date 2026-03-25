@@ -42,11 +42,17 @@ Arrive to your sauna slot 20 minutes early, or schedule your visit around our li
 
 Album Artists:
 Rhae Dawn (@rhaedawn) ft Sigrid
+
 Tyler Holmes (@thetylerholmes) ft Peekaboo Salinas (@peekaboosalinas)
+
 Alexandrea Archuleta (@fordeerlife)
+
 OHYUNG (@ohyunglia)
+
 Nino Claveria (@princejellobeb)
+
 Lucy Liyou (@lucyliyou)
+
 Annie Akers (@lemon__ice__cream)
 
 
