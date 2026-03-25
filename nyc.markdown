@@ -11,8 +11,8 @@ main_class: nyc
 <div class="two-col">
   <img
       class="right"
-      src="/assets/images/illustration-audio.png"
-      alt="Line drawing of of a person wearing headphones from behind, with hands on the cans."
+      src="/assets/images/GenderMendFLYER.png"
+      alt="textile group show flyer called Gender Mend, against a backdrop of a trans person with green hair and a quilt draped around their shoulders entering the ocean"
       width="363" height="268"
   />
   <div class="left" markdown="1">
