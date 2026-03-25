@@ -31,7 +31,7 @@ Arrive to your sauna slot 20 minutes early, or schedule your visit around our li
 
 flyer by Lou Tamiye
 
-### Performers
+### Performers:
 11:00: Flung (@xoxoflung)
 
 12:45: Eternity Machine (@thatspongeisalive)
