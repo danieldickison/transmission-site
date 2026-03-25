@@ -12,7 +12,7 @@ main_class: sauna
 <img
       class="right"
       src="/assets/images/GHflyer.jpg"
-      alt="tiled quilt flyer sharing details for a show in Chicago in March"
+      alt="a white quilt floating against the backdrop of the San Francisco Bay with text promoting an event at GoodHot Sauna on April 11"
       width="600" height="800"
 />
 
