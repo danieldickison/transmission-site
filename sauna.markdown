@@ -4,7 +4,7 @@ main_class: sauna
 ---
 ## Transmissions Sounds (a quilt-blessing pre-release)
 ## GoodHot Sauna. Richmond, CA
-## 9am - 7pm on April 11, 2026
+## 9:30am - 8pm on April 11, 2026
 
 ### in collaboration with BUBBLES (queer and trans day)
 
