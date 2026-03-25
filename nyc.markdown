@@ -11,7 +11,7 @@ main_class: nyc
 <img
       class="right"
       src="/assets/images/GenderMendFLYER.png"
-      alt="tiled quilt flyer sharing details for a show in Chicago in March"
+      alt="photo of a person wrapped in a quilt in the ocean sharing details for a transgender textile show in New York City in April"
       width="600" height="800"
 />
 
