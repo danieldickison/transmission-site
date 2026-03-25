@@ -15,7 +15,6 @@ main_class: nyc
       alt="textile group show flyer called Gender Mend, against a backdrop of a trans person with green hair and a quilt draped around their shoulders entering the ocean"
       width="600" height="800"
   />
-  <div class="left" markdown="1">
 
 Gender Mend, A Transgender Craft Exhibition is presented as part of Trans Art Fest @transartfest
 
