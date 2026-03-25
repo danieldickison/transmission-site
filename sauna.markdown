@@ -2,7 +2,7 @@
 permalink: /sauna
 main_class: sauna
 ---
-## Transmissions Sounds (an EP release teaser)
+## Transmissions Sounds (a quilt-blessing pre-release)
 ## GoodHot Sauna. Richmond, CA
 ## 9am - 7pm on April 11, 2026
 
@@ -12,8 +12,8 @@ main_class: sauna
   <img
       class="right"
       src="/assets/images/illustration-audio.png"
-      alt="Line drawing of of a person wearing headphones from behind, with hands on the cans."
+      alt="photograph of a blanket against a backdrop of the San Francisco Bay. Text says Blankets and Bubbles. queer and trans day. music, food, performance, sauna. transmissions quilts and good hot. saturday april 11 all day."
       width="363" height="268"
   />
   <div class="left" markdown="1">
-stay tuned for more details
+
