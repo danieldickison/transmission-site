@@ -9,14 +9,13 @@ main_class: sauna
 
 ### in collaboration with BUBBLES (queer and trans day)
 
-<div class="two-col">
-  <img
-      class="left"
+<img
+      class="right"
       src="/assets/images/GHflyer.jpg"
-      alt="photograph of a blanket against a backdrop of the San Francisco Bay. Text says Blankets and Bubbles. queer and trans day. music, food, performance, sauna. transmissions quilts and good hot. saturday april 11 all day."
-      width="600" height="600"
-  />
-  <div class="left" markdown="1">
+      alt="tiled quilt flyer sharing details for a show in Chicago in March"
+      width="600" height="800"
+/>
+
 
 Transmissions Quilts is producing an ambient music album in collaboration with Cone Shape Top Imprint (@coneshapetop) to explore the rich history of quilts and sound.  At this special BUBBLES day we will be sharing an album teaser, imbuing your traditional sauna experience with sounds from the forthcoming album set to release this summer.
 
