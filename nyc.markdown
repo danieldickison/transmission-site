@@ -16,7 +16,6 @@ main_class: nyc
       width="600" height="800"
   />
   <div class="left" markdown="1">
-stay tuned for more details
 
 Gender Mend, A Transgender Craft Exhibition is presented as part of Trans Art Fest @transartfest
 
