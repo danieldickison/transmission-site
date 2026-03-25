@@ -29,15 +29,15 @@ This album is being produced by Nish and Cordy and released through Cone Shape T
 
 Arrive to your sauna slot 20 minutes early, or schedule your visit around our lineup of live performers. Performances will take place in one of GoodHot’s larger saunas, with NO heat running. They will be purposefully small, intimate gatherings and we anticipate them filling up (think: 8-10 people). Each artist is sharing work inspired by quilts, saunas and the water so please join us to experience their magic. We’ll share more about each of our performers in the days leading up to the event.
 
-11:00-11:20: Flung (@xoxoflung)
+11:00: Flung (@xoxoflung)
 
-12:45-1:05: Eternity Machine (@thatspongeisalive)
+12:45: Eternity Machine (@thatspongeisalive)
 
-2:30-2:50: Radiotruc (@radiotruc)
+2:30: Radiotruc (@radiotruc)
 
-4:15-4:35: Eternity Machine (@thatspongeisalive)
+4:15: Eternity Machine (@thatspongeisalive)
 
-6:00-6:20: Nahualle (@nahualle)
+6:00: Nahualle (@nahualle)
 
 
 Album Artists:
