@@ -10,10 +10,10 @@ main_class: nyc
 
 <div class="two-col">
   <img
-      class="right"
+      class="left"
       src="/assets/images/GenderMendFLYER.png"
       alt="textile group show flyer called Gender Mend, against a backdrop of a trans person with green hair and a quilt draped around their shoulders entering the ocean"
-      width="363" height="268"
+      width="600" height="800"
   />
   <div class="left" markdown="1">
 stay tuned for more details
