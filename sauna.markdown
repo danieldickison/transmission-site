@@ -7,7 +7,7 @@ main_class: sauna
 ## GoodHot Sauna. Richmond, CA
 ## 9:30am - 8pm on April 11, 2026
 
-### in collaboration with BUBBLES (queer and trans day)
+## in collaboration with BUBBLES (queer and trans day)
 
 <img
       class="right"
