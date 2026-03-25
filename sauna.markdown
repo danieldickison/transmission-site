@@ -23,12 +23,15 @@ This event will include live performances from special guests, quilts and photos
 
 You do not need to book a sauna to attend! Individual tickets are being sold at a sliding scale of $5-$25 (NOTAFLOF!) and will get you access to live performances, the gallery grounds, a Transmissions zine, the album, and the community quilting bee. Food will be sold separately with 50% of proceeds to benefit @bay2gaza. Come through!!!
 
-[book here](https://good-hot.com/blankets) 
+###[book here](https://good-hot.com/blankets) 
 
 This album is being produced by Nish and Cordy and released through Cone Shape Top Imprint. Additional mastering support from Geoff Saba.
 
 Arrive to your sauna slot 20 minutes early, or schedule your visit around our lineup of live performers. Performances will take place in one of GoodHot’s larger saunas, with NO heat running. They will be purposefully small, intimate gatherings and we anticipate them filling up (think: 8-10 people). Each artist is sharing work inspired by quilts, saunas and the water so please join us to experience their magic. We’ll share more about each of our performers in the days leading up to the event.
 
+flyer by Lou Tamiye
+
+###Performers
 11:00: Flung (@xoxoflung)
 
 12:45: Eternity Machine (@thatspongeisalive)
@@ -42,7 +45,7 @@ Arrive to your sauna slot 20 minutes early, or schedule your visit around our li
 
 
 
-Album Artists:
+###Album Artists:
 
 Rhae Dawn (@rhaedawn) ft Sigrid
 
@@ -57,10 +60,6 @@ Nino Claveria (@princejellobeb)
 Lucy Liyou (@lucyliyou)
 
 Annie Akers (@lemon__ice__cream)
-
-
-flyer by Lou Tamiye
-
 
 
 
