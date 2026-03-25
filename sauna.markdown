@@ -62,7 +62,7 @@ Album Artists:
 Rhae Dawn (@rhaedawn) ft Sigrid
 Tyler Holmes (@thetylerholmes) ft Peekaboo Salinas (@peekaboosalinas)
 Alexandrea Archuleta (@fordeerlife)
-Lia Ouyang Rusli (@ohyunglia)
+OHYUNG (@ohyunglia)
 Nino Claveria (@princejellobeb)
 Lucy Liyou (@lucyliyou)
 Annie Akers (@lemon__ice__cream)
