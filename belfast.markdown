@@ -6,7 +6,7 @@ main_class: belfast
 ## Waterfall Arts. Belfast, ME
 ## June 5-12, 2026
 
-### in collaboration with Trans Poetics Archive 
+### in collaboration with Trans Poetics Archive, Out in the Open, Waterfall Arts and Belfast Poetry Festival
 
 <div class="two-col">
   <img
