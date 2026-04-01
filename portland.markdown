@@ -4,14 +4,14 @@ main_class: portland
 ---
 ## Soft Edges
 ## Light Manufacturing. Portland, ME
-## May 4 - May 28, 2026
+## May 4 - May 29, 2026
+## cosponsored by APE Ltd. (Northampton, MA)
 
 <div class="two-col">
   <img
       class="right"
-      src="/assets/images/illustration-audio.png"
-      alt="Line drawing of of a person wearing headphones from behind, with hands on the cans."
+      src="/assets/images/Final Edit.jpg"
+      alt="a flyer advertising an art show in Portland, Maine over a gauzy film photo of a person holding a quilt"
       width="363" height="268"
   />
   <div class="left" markdown="1">
-stay tuned for more details
