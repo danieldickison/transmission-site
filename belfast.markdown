@@ -11,7 +11,7 @@ main_class: belfast
 <div class="two-col">
   <img
       class="right"
-      src="/assets/images/illustration-audio.png"
+      src="/assets/images/1.H_A.png"
       alt="Line drawing of of a person wearing headphones from behind, with hands on the cans."
       width="363" height="268"
   />
