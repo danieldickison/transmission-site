@@ -21,7 +21,7 @@ Transmissions is a project that hires trans artists to make gift quilts for indi
 The weekend of June 5 - 7 holds a variety of opportunities to experience the show, all happening in the Clifford Gallery. Help us kick things off on Friday June 5 with a poetry open mic from 5 - 8pm. 
 <img
       class="right"
-      src="/assets/images/2.Lunilah.jpeg"
+      src="/assets/images/Lunilah.updated.png"
       alt="photo of a person wrapped in a quilt in the ocean sharing details for a transgender textile show in New York City in April"
       width="600" height="800"
 />
