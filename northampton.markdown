@@ -24,7 +24,7 @@ June 16 we will be offering "Quilt in a Day," led by Northampton artist Joey Deh
 
 <img
       class="right"
-      src="/assets/images/Lunilah.updated.png"
+      src="/assets/images/ARCflyer2.png"
       alt="photo of a person wrapped in a quilt in the ocean sharing details for a transgender textile show in New York City in April"
       width="600" height="800"
 />
@@ -34,9 +34,9 @@ June 20 (the longest day of the year!) will be a larger night of performance amo
 
 <img
       class="right"
-      src="/assets/images/3.Lou_Sampson.jpeg"
+      src="/assets/images/ARCflyer1.png"
       alt="photo of a person wrapped in a quilt in the ocean sharing details for a transgender textile show in New York City in April"
       width="600" height="800"
 />
 
-Thank you to the Coby Foundation for supporting the New England tour of Transmissions: Quilts for Trans People and to many other organizations and individuals who have made this all possible.
+Thank you to the Coby Foundation, Massachusetts Cultural Council and the Community Foundation of Western Massachusetts for supporting the New England tour of Transmissions: Quilts for Trans People. Thank you to many other organizations and individuals who have made this all possible.
