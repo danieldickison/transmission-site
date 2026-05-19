@@ -8,7 +8,7 @@ main_class: northampton
 
 ### supported by the ARC program
 
-Join Transmissions Quilts for PLACES, an exhibition in Northampton, MA on view Tuesday June 16 to Saturday June 20 at APE Ltd through their ARC (Activate, Research, Create) summer residency program. 
+Join Transmissions Quilts for PLACES, an exhibition in Northampton, MA on view Tuesday June 16 to Saturday June 20 at APE Ltd through their [ARC (Activate, Research, Create)](https://apearts.org/arc-2026) summer residency program. 
 
 Transmissions is a project that hires trans artists to make gift quilts for individually nominated trans people. Quilts have always been used to celebrate life transitions and our project lives in that lineage, and many others. This show is part of our New England tour sharing quilts and additional art from our wonderful northeast artists. PLACES focuses particularly on quilts as performance - as 3d, alive objects that interact with light and wind and music and the daily rhythms of existence.
 
