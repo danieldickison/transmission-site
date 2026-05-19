@@ -15,5 +15,4 @@ main_class: viroqua
       width="600" height="800"
 />
 
-
 stay tuned for more details
