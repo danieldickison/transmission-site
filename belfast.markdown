@@ -2,7 +2,7 @@
 permalink: /belfast
 main_class: belfast
 ---
-## Transmissions Poetry
+## Home & Away
 ## Waterfall Arts. Belfast, ME
 ## June 5-12, 2026
 
