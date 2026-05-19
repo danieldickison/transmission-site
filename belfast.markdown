@@ -25,14 +25,14 @@ The weekend of June 5 - 7 holds a variety of opportunities to experience the sho
       alt="photo of a person wrapped in a quilt in the ocean sharing details for a transgender textile show in New York City in April"
       width="600" height="800"
 />
-Keeping up with the textile and text threads, self identified trans community members are invited to join interdisciplinary collective @lunilahproject and Transmissions Quilts for a workshop for trans folks on Saturday afternoon (1pm - 4pm) combining collage poetry and embroidery/binding techniques. Participants will learn collage and black-out poetry techniques to draft their own short poem, as well as simple hand-sewn binding and embroidery methods to create a fabric or paper zine with each poem. Make something sweet for someone you love or yourself <3
+Keeping up with the textile and text threads, self identified trans community members are invited to join interdisciplinary collective @lunilahproject and Transmissions Quilts for a workshop for trans folks on Saturday afternoon (10am - 1pm) combining collage poetry and embroidery/binding techniques. Participants will learn collage and black-out poetry techniques to draft their own short poem, as well as simple hand-sewn binding and embroidery methods to create a fabric or paper zine with each poem. Make something sweet for someone you love or yourself <3
 <img
       class="right"
       src="/assets/images/3.Lou_Sampson.jpeg"
       alt="photo of a person wrapped in a quilt in the ocean sharing details for a transgender textile show in New York City in April"
       width="600" height="800"
 />
-Folks of any identity may join Sampson Spadafore, theatre artist and poet, and Lou Hoecker, winner of the Trans Poetics Archive 2026 Poetry Anthology Contest for Hand in Hand: A poetry and contact improv workshop from 10 - 1pm on Sunday June 7.  Born out of a desire for physical connection and expression, Hand in Hand offers participants a chance to explore movement and words through contact improv and poetry. Sampson and Lou will guide participants through contact improv best practices and exercises. You'll have a chance to write poetry inspired by Lou's winning poem, Pink, and offer ways to collaborate with other writers. 
+Folks of any identity may join Sampson Spadafore, theatre artist and poet, and Lou Hoecker, winner of the Trans Poetics Archive 2026 Poetry Anthology Contest for Hand in Hand: A poetry and contact improv workshop from 10am - 1pm on Sunday June 7.  Born out of a desire for physical connection and expression, Hand in Hand offers participants a chance to explore movement and words through contact improv and poetry. Sampson and Lou will guide participants through contact improv best practices and exercises. You'll have a chance to write poetry inspired by Lou's winning poem, Pink, and offer ways to collaborate with other writers. 
 
 Workshop sign ups are at www.WeAreOutintheOpen.org and are offered at no cost. Regular gallery hours are Tuesday – Friday  10am – 5pm and Saturday 11 am – 3pm. This event series and exhibition are a collaboration between @transquilts, @Waterfallarts, @WeAreOutintheOpen @BelfastPoetry Festival and @transpoeticsarchive. 
 
