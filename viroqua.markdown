@@ -6,7 +6,7 @@ main_class: viroqua
 ## RACK. Viroqua, WI
 ## July 3-5, 2026
 
-### in partnership with RACK
+### in partnership with [RACK](https://www.rackviroqua.com/)
 
 <img
       class="right"
