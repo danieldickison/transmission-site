@@ -11,7 +11,7 @@ main_class: viroqua
 <div class="two-col">
   <img
       class="right"
-      src="/assets/images/illustration-audio.png"
+      src="/assets/images/CreatureComforts.flyer.png"
       alt="Line drawing of of a person wearing headphones from behind, with hands on the cans."
       width="363" height="268"
   />
