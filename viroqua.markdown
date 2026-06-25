@@ -15,4 +15,12 @@ main_class: viroqua
       width="600" height="800"
 />
 
-stay tuned for more details
+Join RACK in celebrating the @transquilts project alongside their grand opening!
+
+Music by @ipaghost and Ranger Danger for the Friday nite dance party.
+
+Registration for Saturday workshops is now open on our [website](https://www.rackviroqua.com/)! & Enjoy pizza by Maybe Lately's!!
+
+And chill out with us Sunday and check out the quilts and our space!
+
+See you there!!
