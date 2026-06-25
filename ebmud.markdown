@@ -4,7 +4,7 @@ main_class: ebmud
 ---
 ## Transmissions Photoshow
 ## East Bay MUD. Oakland, CA
-## June 3-30, 2026
+## June 1 - July 10, 2026
 <img
       class="right"
       src="/assets/images/Fromthesewers.png"
