@@ -3,7 +3,7 @@ permalink: /foq
 main_class: foq
 ---
 ## Transmissions Quilts Show
-## Festival of Quilts(. Birmingham, UK
+## Festival of Quilts. Birmingham, UK
 ## July 31 - August 2, 2026
 
 <img
