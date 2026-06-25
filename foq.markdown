@@ -13,9 +13,9 @@ main_class: foq
       width="600" height="800"
 />
 
-join us across the sea in Birmingham, UK as we share our work at the [Festival of Quilts](https://www.thefestivalofquilts.co.uk/)! In addition to an exhibition stand throughout the weekend, we'll have a panel on August 1 featuring Cordy Joan, Jess Bailey (@publiclibraryquilts), E West (@tepidpaper) and Joe Cunningham (@joethequilter) talking quilt archives, and making with history, particularly queer and hidden histories.
+join us across the sea in Birmingham, UK as we share our work at the [Festival of Quilts](https://www.thefestivalofquilts.co.uk/)! In addition to an exhibition stand throughout the weekend, we'll have a panel on August 1 featuring Cordy Joan, Jess Bailey (@publiclibraryquilts), E West (@tepidpaper) and Joe Cunningham (@joethequilter) talking quilt archives and making with history, particularly queer and hidden histories.
 
-Tos of other rad projects and invidual quilters to check out here too.
+Tons of other rad projects and invidual quilters to check out here too.
 
 book tickets [here](https://thefestivalofquilts.seetickets.com/content/ticket-options?_gl=1*iu843d*_gcl_au*MTIxMzcxMzYyMi4xNzgxMjgwMDc3*_ga*MTI3NzMzMzgxOC4xNzgxMjgwMDc4*_ga_XFK8HR2H6F*czE3ODI0MDg4MjckbzIkZzEkdDE3ODI0MDk4MzQkajYwJGwwJGgyOTY3ODM5MTE.) with discount code TRANSMISSIONS to get 2 pounds off your ticket
 
